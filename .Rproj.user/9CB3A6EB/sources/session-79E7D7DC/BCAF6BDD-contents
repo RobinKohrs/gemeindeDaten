@@ -1,0 +1,62 @@
+library(jsonlite)
+library(tidyverse)
+library(glue)
+library(here)
+
+# paths -------------------------------------------------------------------
+path_income = here("output/income_2020.csv") # local process
+path_age = here("output/age_2022.csv") # local process
+path_geo = here("data_raw/geo/gemeindedaten - geo.csv") # local process and download from google
+path_gleichstellung = here("data_raw/gleichstellung/gemeindedaten - gleichstellung.csv") # download from google 
+path_pendler = here("data_raw/pendler/gemeindedaten - pendler.csv") # download from google
+
+paths = list(path_income, path_age, path_geo, path_pendler, path_gleichstellung)
+
+# deinfe output -----------------------------------------------------------
+path_output_dir = here("output/json"); if(!dir.exists(path_output_dir)) dir.create(path_output_dir)
+
+# read em all in ----------------------------------------------------------
+data = purrr::map(paths, function(x){
+
+  basename = basename(x) %>% gsub(".* (.*)\\.[a-z]*$", "\\1", x = .)
+  data = readr::read_csv(x) 
+  data = data %>% 
+    mutate(
+      across(2:ncol(.), as.character)
+    )
+  
+  # pivot longer each data
+  data_long =  data %>% pivot_longer(cols = -c(gemeinde),
+                        names_to = "variable",
+                        values_to = "values")
+
+  data_long
+  
+  # json = toJSON(data)
+  # path_outfile = here(path_output_dir, glue("{basename}.json"))
+  # write(json, path_outfile)
+}) %>% bind_rows()
+
+
+data_wide = pivot_wider(data, names_from = variable, values_from = values) %>% 
+  mutate(
+    across(-c(gemeinde, next_urban_center), as.numeric)
+  )
+
+data_wide = data_wide %>% 
+  mutate(
+    next_urban_center = glue::glue("{next_urban_center} ({next_urban_center_dist} km)"),
+    next_urban_center = ifelse(gemeinde == "Österreich", NA, next_urban_center)
+  )
+
+path_outfile = here(path_output_dir, glue("data_all_wide.json"))
+data_json = toJSON(data)
+data_wide_json = toJSON(data_wide)
+write(data_wide_json, path_outfile)
+
+
+
+
+
+
+

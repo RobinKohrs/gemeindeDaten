@@ -1,0 +1,28 @@
+{
+    "id": "D3A38D3B",
+    "path": "~/projects/dst/2022/apr/gemeinde_daten_process/analysis/process_bev.R",
+    "project_path": "analysis/process_bev.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1666863881111.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "31,0",
+        "scrollLine": "0",
+        "marks": "<:30,28\n>:30,28"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1666864588,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1666864588966,
+    "read_only": false,
+    "read_only_alternatives": []
+}

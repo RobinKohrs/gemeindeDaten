@@ -1,0 +1,2094 @@
+id,name,min_distance_m,min_distance_city
+10101,Eisenstadt,42001.4010931086,Wien
+10201,Rust,50677.5327899441,Wien
+10301,Breitenbrunn am Neusiedler See,40195.5532553829,Wien
+10302,Donnerskirchen,40941.0788330103,Wien
+10303,Großhöflein,42828.5512000767,Wien
+10304,Hornstein,36744.9296593265,Wien
+10305,Klingenbach,51821.0265524804,Wien
+10306,Leithaprodersdorf,32747.507017797,Wien
+10307,Mörbisch am See,54715.5309799044,Wien
+10308,Müllendorf,41140.1271940423,Wien
+10309,Neufeld an der Leitha,38254.7370625352,Wien
+10310,Oggau am Neusiedler See,46801.9385656806,Wien
+10311,Oslip,44144.3127394863,Wien
+10312,Purbach am Neusiedler See,40335.5700604532,Wien
+10313,Sankt Margarethen im Burgenland,49753.9127478672,Wien
+10314,Schützen am Gebirge,41915.4465757776,Wien
+10315,Siegendorf,50197.2066466442,Wien
+10316,Steinbrunn,40710.9708876489,Wien
+10317,Trausdorf an der Wulka,45874.3363708612,Wien
+10318,Wimpassing an der Leitha,33283.7065906367,Wien
+10319,Wulkaprodersdorf,46433.0119602683,Wien
+10320,Loretto,34956.3862846369,Wien
+10321,Stotzing,36917.9662062953,Wien
+10322,Zillingtal,43853.2670571092,Wien
+10323,Zagersdorf,50909.2808935031,Wien
+10401,Bocksdorf,56983.8125059167,Graz
+10402,Burgauberg-Neudauberg,52760.5328397778,Graz
+10403,Eberau,76552.7288570207,Graz
+10404,Gerersdorf-Sulz,61474.3926790565,Graz
+10405,Güssing,68043.5847857838,Graz
+10406,Güttenbach,65809.1270099285,Graz
+10407,Heiligenbrunn,75904.5277912091,Graz
+10408,Kukmirn,56543.0360047351,Graz
+10409,Neuberg im Burgenland,62742.8774494979,Graz
+10410,Neustift bei Güssing,62788.0515260392,Graz
+10411,Olbendorf,59777.4009825856,Graz
+10412,Ollersdorf im Burgenland,55850.9639482954,Graz
+10413,Sankt Michael im Burgenland,62869.1904058795,Graz
+10414,Stegersbach,56067.294134854,Graz
+10415,Stinatz,53905.3755750749,Graz
+10416,Strem,73762.3338330697,Graz
+10417,Tobaj,68000.3551268515,Graz
+10418,Hackerberg,52553.5992140237,Graz
+10419,Wörterberg,52178.3287116157,Graz
+10420,Großmürbisch,69866.2611771873,Graz
+10421,Inzenhof,66820.2058023481,Graz
+10422,Kleinmürbisch,67104.1747346707,Graz
+10423,Tschanigraben,66677.3818632603,Graz
+10424,Heugraben,57752.783137694,Graz
+10425,Rohr im Burgenland,54866.882573322,Graz
+10426,Bildein,79750.8466901406,Graz
+10427,Rauchwart,60257.8151918443,Graz
+10428,Moschendorf,78691.81934437,Graz
+10501,Deutsch Kaltenbrunn,51544.4789984711,Graz
+10502,Eltendorf,58857.2563902636,Graz
+10503,Heiligenkreuz im Lafnitztal,62414.049929695,Graz
+10504,Jennersdorf,54780.1114238672,Graz
+10505,Minihof-Liebau,53164.1898049082,Graz
+10506,Mogersdorf,61224.7762866169,Graz
+10507,Neuhaus am Klausenbach,51093.2160877863,Graz
+10508,Rudersdorf,53084.7368934374,Graz
+10509,Sankt Martin an der Raab,55060.0335781361,Graz
+10510,Weichselbaum,58647.9631645908,Graz
+10511,Königsdorf,56204.5880949934,Graz
+10512,Mühlgraben,50287.4665181978,Graz
+10601,Draßburg,52304.7528070122,Wien
+10602,Forchtenstein,55308.8111401817,Wien
+10603,Hirm,46721.6987292256,Wien
+10604,Loipersbach im Burgenland,56796.9322122083,Wien
+10605,Marz,56339.5241205256,Wien
+10606,Mattersburg,53907.8360133629,Wien
+10607,Neudörfl,46662.9508455153,Wien
+10608,Pöttelsdorf,50855.0254612876,Wien
+10609,Pöttsching,46806.771734508,Wien
+10610,Rohrbach bei Mattersburg,57070.5094893707,Wien
+10611,Bad Sauerbrunn,48478.4680496987,Wien
+10612,Schattendorf,55349.3552477757,Wien
+10613,Sieggraben,61066.5105979503,Wien
+10614,Sigleß,48617.9734382022,Wien
+10615,Wiesen,51739.6606154196,Wien
+10616,Antau,48634.9373942224,Wien
+10617,Baumgarten,53716.8289592106,Wien
+10618,Zemendorf-Stöttera,50079.2682263657,Wien
+10619,Krensdorf,46965.634162303,Wien
+10701,Andau,69093.9304681698,Wien
+10702,Apetlon,62113.4782038643,Wien
+10703,Bruckneudorf,36783.2034892663,Wien
+10704,Deutsch Jahrndorf,58726.2920521425,Wien
+10705,Frauenkirchen,58474.2359445166,Wien
+10706,Gattendorf,50153.7236023712,Wien
+10707,Gols,52729.97422703,Wien
+10708,Halbturn,60681.1382298851,Wien
+10709,Illmitz,56691.5300959023,Wien
+10710,Jois,41884.6560294657,Wien
+10711,Kittsee,52173.3213965974,Wien
+10712,Mönchhof,55990.422175047,Wien
+10713,Neusiedl am See,47093.3761036216,Wien
+10714,Nickelsdorf,59351.7626834605,Wien
+10715,Pama,52488.4613835842,Wien
+10716,Pamhagen,67460.9561282039,Wien
+10717,Parndorf,42222.0420553949,Wien
+10718,Podersdorf am See,52298.8535764145,Wien
+10719,Sankt Andrä am Zicksee,62688.9921916155,Wien
+10720,Tadten,68881.8260912003,Wien
+10721,Wallern im Burgenland,69522.0544956946,Wien
+10722,Weiden am See,48537.8555887207,Wien
+10723,Winden am See,40295.410570385,Wien
+10724,Zurndorf,52945.7857973409,Wien
+10725,Neudorf,46051.3771453073,Wien
+10726,Potzneusiedl,45848.2606416714,Wien
+10727,Edelstal,47561.9677056825,Wien
+10801,Deutschkreutz,70921.5993653512,Wien
+10802,Draßmarkt,78879.8335021667,Wien
+10803,Frankenau-Unterpullendorf,84277.3188281493,Wien
+10804,Großwarasdorf,77075.2493303895,Wien
+10805,Horitschon,71238.2984210612,Wien
+10806,Kaisersdorf,74677.1388872111,Wien
+10807,Kobersdorf,68240.5167077139,Wien
+10808,Lackenbach,65878.314261215,Wien
+10809,Lockenhaus,81438.8837858715,Graz
+10810,Lutzmannsburg,84431.7053574224,Wien
+10811,Mannersdorf an der Rabnitz,87750.6139909178,Wien
+10812,Markt Sankt Martin,72076.3556003271,Wien
+10813,Neckenmarkt,67281.5128362178,Wien
+10814,Neutal,74418.9849600474,Wien
+10815,Nikitsch,78450.6421728849,Wien
+10816,Oberpullendorf,79774.9829472844,Wien
+10817,Pilgersdorf,78604.4095464713,Graz
+10818,Piringsdorf,83394.178871325,Wien
+10819,Raiding,73309.7756422731,Wien
+10820,Ritzing,65464.6317149265,Wien
+10821,Steinberg-Dörfl,82038.5160703554,Wien
+10822,Stoob,76572.0604359186,Wien
+10823,Weppersdorf,67598.4184044613,Wien
+10824,Lackendorf,67246.4282277476,Wien
+10825,Unterfrauenhaid,72397.9368135128,Wien
+10826,Unterrabnitz-Schwendgraben,82310.4061156924,Graz
+10827,Weingraben,76059.022059647,Wien
+10828,Oberloisdorf,85616.4789824776,Wien
+10901,Bad Tatzmannsdorf,66805.7328941281,Graz
+10902,Bernstein,72936.3227263295,Graz
+10903,Deutsch Schützen-Eisenberg,75508.2502052474,Graz
+10904,Grafenschachen,57247.5976130411,Graz
+10905,Großpetersdorf,69877.2188692235,Graz
+10906,Hannersdorf,73994.1230961544,Graz
+10907,Kemeten,57604.2265174903,Graz
+10908,Kohfidisch,70793.2660603363,Graz
+10909,Litzelsdorf,57007.7008067188,Graz
+10910,Loipersdorf-Kitzladen,55981.9384169679,Graz
+10911,Mariasdorf,69205.9644871621,Graz
+10912,Markt Allhau,56097.8592412275,Graz
+10913,Markt Neuhodis,76242.8025036465,Graz
+10914,Mischendorf,66485.7636621006,Graz
+10915,Oberdorf im Burgenland,61323.3570147178,Graz
+10916,Oberschützen,65250.3289918999,Graz
+10917,Oberwart,61687.3549335711,Graz
+10918,Pinkafeld,60652.8999272708,Graz
+10919,Rechnitz,80004.7360883155,Graz
+10920,Riedlingsdorf,60610.0820213296,Graz
+10921,Rotenturm an der Pinka,65792.1691799622,Graz
+10922,Schachendorf,76675.9164325747,Graz
+10923,Stadtschlaining,69812.243019742,Graz
+10924,Unterkohlstätten,75273.0708946241,Graz
+10925,Unterwart,63228.4056146468,Graz
+10926,Weiden bei Rechnitz,73114.2069628166,Graz
+10927,Wiesfleck,64556.5090749867,Graz
+10928,Wolfau,54113.2348204518,Graz
+10929,Neustift an der Lafnitz,55370.3260057853,Graz
+10930,Jabing,66006.5708535943,Graz
+10931,Badersdorf,72064.0963295841,Graz
+10932,Schandorf,76620.7350070189,Graz
+20101,Klagenfurt am Wörthersee,99757.1122042374,Graz
+20201,Villach,35401.3460752511,Klagenfurt am Wörthersee
+20302,Dellach,93207.1336060422,Klagenfurt am Wörthersee
+20305,Hermagor-Pressegger See,72976.8354658363,Klagenfurt am Wörthersee
+20306,Kirchbach,86546.8771323867,Klagenfurt am Wörthersee
+20307,Kötschach-Mauthen,101014.217711967,Klagenfurt am Wörthersee
+20316,St. Stefan im Gailtal,60371.9502426167,Klagenfurt am Wörthersee
+20320,Gitschtal,78382.2647472784,Klagenfurt am Wörthersee
+20321,Lesachtal,114295.769828103,Klagenfurt am Wörthersee
+20402,Ebenthal in Kärnten,9840.8068301544,Klagenfurt am Wörthersee
+20403,Feistritz im Rosental,18464.5874795968,Klagenfurt am Wörthersee
+20405,Ferlach,15805.0585316049,Klagenfurt am Wörthersee
+20409,Grafenstein,13964.3487393658,Klagenfurt am Wörthersee
+20412,Keutschach am See,10612.5828644945,Klagenfurt am Wörthersee
+20414,Köttmannsdorf,9817.04835893942,Klagenfurt am Wörthersee
+20415,Krumpendorf am Wörthersee,6423.35009596955,Klagenfurt am Wörthersee
+20416,Ludmannsdorf,15286.8073904433,Klagenfurt am Wörthersee
+20417,Maria Rain,8664.3315532407,Klagenfurt am Wörthersee
+20418,Maria Saal,7156.95355283915,Klagenfurt am Wörthersee
+20419,Maria Wörth,9963.3574916358,Klagenfurt am Wörthersee
+20421,Moosburg,9334.36898348106,Klagenfurt am Wörthersee
+20424,Pörtschach am Wörther See,10904.2874846038,Klagenfurt am Wörthersee
+20425,Poggersdorf,13937.9868320984,Klagenfurt am Wörthersee
+20428,St. Margareten im Rosental,15589.8558665765,Klagenfurt am Wörthersee
+20432,Schiefling am Wörthersee,16013.9751279612,Klagenfurt am Wörthersee
+20435,Techelsberg am Wörther See,15783.1725293704,Klagenfurt am Wörthersee
+20441,Zell,20127.5108806137,Klagenfurt am Wörthersee
+20442,Magdalensberg,10734.8776290579,Klagenfurt am Wörthersee
+20501,Althofen,29960.544912723,Klagenfurt am Wörthersee
+20502,Brückl,20203.0697782794,Klagenfurt am Wörthersee
+20503,Deutsch-Griffen,34853.626168982,Klagenfurt am Wörthersee
+20504,Eberstein,28574.9219898941,Klagenfurt am Wörthersee
+20505,Friesach,38624.6309315331,Klagenfurt am Wörthersee
+20506,Glödnitz,34521.6445795178,Klagenfurt am Wörthersee
+20508,Gurk,24192.4370506883,Klagenfurt am Wörthersee
+20509,Guttaring,34907.0074426652,Klagenfurt am Wörthersee
+20511,Hüttenberg,41598.5121471783,Klagenfurt am Wörthersee
+20512,Kappel am Krappfeld,25742.2444055665,Klagenfurt am Wörthersee
+20513,Klein St. Paul,32888.7249656283,Klagenfurt am Wörthersee
+20515,Liebenfels,13100.3554088463,Klagenfurt am Wörthersee
+20518,Metnitz,39875.8960672115,Klagenfurt am Wörthersee
+20519,Micheldorf,33333.6711780448,Klagenfurt am Wörthersee
+20520,Mölbling,25161.0465431143,Klagenfurt am Wörthersee
+20523,St. Georgen am Längsee,18752.2929683422,Klagenfurt am Wörthersee
+20527,St. Veit an der Glan,11588.3738058423,Klagenfurt am Wörthersee
+20530,Straßburg,30419.5975848708,Klagenfurt am Wörthersee
+20531,Weitensfeld im Gurktal,26209.3155913328,Klagenfurt am Wörthersee
+20534,Frauenstein,18512.5070564583,Klagenfurt am Wörthersee
+20601,Bad Kleinkirchheim,44814.2754602393,Klagenfurt am Wörthersee
+20602,Baldramsdorf,67279.4686916943,Klagenfurt am Wörthersee
+20603,Berg im Drautal,89630.4786086153,Klagenfurt am Wörthersee
+20604,Dellach im Drautal,94530.5724329884,Klagenfurt am Wörthersee
+20605,Großkirchheim,91095.13605577,Salzburg
+20607,Flattach,92185.8494710635,Salzburg
+20608,Gmünd in Kärnten,64982.5156835031,Klagenfurt am Wörthersee
+20609,Greifenburg,86564.1690588089,Klagenfurt am Wörthersee
+20610,Heiligenblut am Großglockner,85139.1613815798,Salzburg
+20611,Irschen,98262.3253299048,Klagenfurt am Wörthersee
+20613,Kleblach-Lind,73072.406145017,Klagenfurt am Wörthersee
+20616,Lendorf,70544.2084037773,Klagenfurt am Wörthersee
+20618,Mallnitz,88580.8194062115,Salzburg
+20619,Malta,79952.7750152797,Klagenfurt am Wörthersee
+20620,Millstatt am See,56722.0218243456,Klagenfurt am Wörthersee
+20622,Mörtschach,96761.4125926285,Salzburg
+20624,Mühldorf,77293.6977956603,Klagenfurt am Wörthersee
+20625,Oberdrauburg,104271.635533758,Klagenfurt am Wörthersee
+20627,Obervellach,90068.7365085181,Klagenfurt am Wörthersee
+20630,Radenthein,50376.1631430146,Klagenfurt am Wörthersee
+20631,Rangersdorf,103516.485254949,Klagenfurt am Wörthersee
+20632,Rennweg am Katschberg,70753.8848538145,Klagenfurt am Wörthersee
+20633,Sachsenburg,78396.9178051505,Klagenfurt am Wörthersee
+20634,Seeboden am Millstätter See,63048.6168417858,Klagenfurt am Wörthersee
+20635,Spittal an der Drau,59584.9446774778,Klagenfurt am Wörthersee
+20636,Stall,99993.6337116718,Klagenfurt am Wörthersee
+20637,Steinfeld,79369.6942198207,Klagenfurt am Wörthersee
+20638,Trebesing,70922.7977858037,Klagenfurt am Wörthersee
+20639,Weißensee,72722.3217384481,Klagenfurt am Wörthersee
+20640,Winklern,102683.520895996,Salzburg
+20642,Krems in Kärnten,58499.6607227389,Klagenfurt am Wörthersee
+20643,Lurnfeld,73958.4779070173,Klagenfurt am Wörthersee
+20644,Reißeck,84293.7010052662,Klagenfurt am Wörthersee
+20701,Afritz am See,40997.2061717973,Klagenfurt am Wörthersee
+20702,Arnoldstein,44578.7797691875,Klagenfurt am Wörthersee
+20703,Arriach,33410.5251018115,Klagenfurt am Wörthersee
+20705,Bad Bleiberg,49075.3530647275,Klagenfurt am Wörthersee
+20707,Feistritz an der Gail,56386.5612937367,Klagenfurt am Wörthersee
+20708,Feld am See,44144.6136118377,Klagenfurt am Wörthersee
+20710,Ferndorf,51088.4771364262,Klagenfurt am Wörthersee
+20711,Finkenstein am Faaker See,32115.579076358,Klagenfurt am Wörthersee
+20712,Fresach,45964.4610077634,Klagenfurt am Wörthersee
+20713,Hohenthurn,52760.2507184172,Klagenfurt am Wörthersee
+20719,Nötsch im Gailtal,51553.7483346102,Klagenfurt am Wörthersee
+20720,Paternion,53744.7392519366,Klagenfurt am Wörthersee
+20721,Rosegg,23524.7700133248,Klagenfurt am Wörthersee
+20722,St. Jakob im Rosental,22946.0997261284,Klagenfurt am Wörthersee
+20723,Stockenboi,60408.6959315837,Klagenfurt am Wörthersee
+20724,Treffen am Ossiacher See,34160.0671500988,Klagenfurt am Wörthersee
+20725,Velden am Wörther See,20455.7925280806,Klagenfurt am Wörthersee
+20726,Weißenstein,42463.439619399,Klagenfurt am Wörthersee
+20727,Wernberg,25817.9245613162,Klagenfurt am Wörthersee
+20801,Bleiburg,39304.8714649985,Klagenfurt am Wörthersee
+20802,Diex,29431.1905549312,Klagenfurt am Wörthersee
+20803,Eberndorf,28334.7832108943,Klagenfurt am Wörthersee
+20804,Eisenkappel-Vellach,28415.8258687106,Klagenfurt am Wörthersee
+20805,Feistritz ob Bleiburg,37623.4287406849,Klagenfurt am Wörthersee
+20806,Gallizien,18877.0862240044,Klagenfurt am Wörthersee
+20807,Globasnitz,32944.5273895504,Klagenfurt am Wörthersee
+20808,Griffen,34206.18777917,Klagenfurt am Wörthersee
+20810,Neuhaus,45383.3917732554,Klagenfurt am Wörthersee
+20812,Ruden,36713.283917798,Klagenfurt am Wörthersee
+20813,St. Kanzian am Klopeiner See,21654.7022575981,Klagenfurt am Wörthersee
+20815,Sittersdorf,26645.7275131467,Klagenfurt am Wörthersee
+20817,Völkermarkt,23947.3650091925,Klagenfurt am Wörthersee
+20901,Bad St. Leonhard im Lavanttal,49108.8015982738,Graz
+20905,Frantschach-St. Gertraud,45337.9431518003,Graz
+20909,Lavamünd,52090.208586407,Klagenfurt am Wörthersee
+20911,Preitenegg,40056.4653312713,Graz
+20912,Reichenfels,52064.8847086402,Klagenfurt am Wörthersee
+20913,St. Andrä,42707.1417913916,Klagenfurt am Wörthersee
+20914,St. Georgen im Lavanttal,51999.9038129916,Klagenfurt am Wörthersee
+20918,St. Paul im Lavanttal,42691.0709735005,Klagenfurt am Wörthersee
+20923,Wolfsberg,45297.9442196687,Klagenfurt am Wörthersee
+21001,Albeck,32464.0686866248,Klagenfurt am Wörthersee
+21002,Feldkirchen in Kärnten,16495.5901851763,Klagenfurt am Wörthersee
+21003,Glanegg,11261.2241931106,Klagenfurt am Wörthersee
+21004,Gnesau,32384.8453627965,Klagenfurt am Wörthersee
+21005,Himmelberg,24448.8118839374,Klagenfurt am Wörthersee
+21006,Ossiach,23247.3102888435,Klagenfurt am Wörthersee
+21007,Reichenau,40762.57590706,Klagenfurt am Wörthersee
+21008,St. Urban,16914.5670998118,Klagenfurt am Wörthersee
+21009,Steindorf am Ossiacher See,24571.950252963,Klagenfurt am Wörthersee
+21010,Steuerberg,22028.3850376949,Klagenfurt am Wörthersee
+30101,Krems an der Donau,60590.3617101428,Wien
+30201,St. Pölten,54696.6073267444,Wien
+30301,Waidhofen an der Ybbs,50120.5380886593,Linz
+30401,Wiener Neustadt,46346.2886927625,Wien
+30501,Allhartsberg,46425.7602324845,Linz
+30502,Amstetten,44536.4849382304,Linz
+30503,Ardagger,40262.6588693024,Linz
+30504,Aschbach-Markt,38370.418483687,Linz
+30506,Behamberg,29605.6798709803,Linz
+30507,Biberbach,41310.041134217,Linz
+30508,Ennsdorf,15900.794098317,Linz
+30509,Ernsthofen,21235.6357065362,Linz
+30510,Ertl,42332.9449969723,Linz
+30511,Euratsfeld,52024.0275676303,Linz
+30512,Ferschnitz,54142.1520778379,Linz
+30514,Haag,27127.9626081472,Linz
+30515,Haidershofen,27367.7551524252,Linz
+30516,Hollenstein an der Ybbs,64541.6244464667,Linz
+30517,Kematen an der Ybbs,42869.2307237657,Linz
+30520,Neuhofen an der Ybbs,48400.0379473365,Linz
+30521,Neustadtl an der Donau,45813.1890333378,Linz
+30522,Oed-Oehling,38290.0136960438,Linz
+30524,Opponitz,59232.9520148789,Linz
+30526,St. Georgen am Reith,65097.7027140174,Linz
+30527,St. Georgen am Ybbsfelde,50072.50020579,Linz
+30529,St. Pantaleon-Erla,20535.3553684244,Linz
+30530,St. Peter in der Au,36300.8349795189,Linz
+30531,St. Valentin,20596.4672541202,Linz
+30532,Seitenstetten,39141.205187199,Linz
+30533,Sonntagberg,46338.5112566705,Linz
+30534,Strengberg,28775.6877844619,Linz
+30536,Viehdorf,46108.7086017706,Linz
+30538,Wallsee-Sindelburg,33839.3142660208,Linz
+30539,Weistrach,32459.5762968703,Linz
+30541,Winklarn,46030.8879764064,Linz
+30542,Wolfsbach,34033.9270935418,Linz
+30543,Ybbsitz,59287.4102772093,Linz
+30544,Zeillern,38655.5006868213,Linz
+30601,Alland,29046.0290476547,Wien
+30602,Altenmarkt an der Triesting,35947.5921589874,Wien
+30603,Bad Vöslau,30546.10729289,Wien
+30604,Baden,25797.2955691096,Wien
+30605,Berndorf,35047.5371237645,Wien
+30607,Ebreichsdorf,27247.1134087471,Wien
+30608,Enzesfeld-Lindabrunn,36413.4794279542,Wien
+30609,Furth an der Triesting,41336.7321971072,Wien
+30612,Günselsdorf,31106.3308810724,Wien
+30613,Heiligenkreuz,24907.9211698448,Wien
+30614,Hernstein,39625.5772661585,Wien
+30615,Hirtenberg,34049.5980852825,Wien
+30616,Klausen-Leopoldsdorf,31415.6546945244,Wien
+30618,Kottingbrunn,30128.2935948244,Wien
+30620,Leobersdorf,33823.5185573673,Wien
+30621,Mitterndorf an der Fischa,25361.185827107,Wien
+30623,Oberwaltersdorf,26552.4142431811,Wien
+30625,Pfaffstätten,22495.0022817817,Wien
+30626,Pottendorf,32782.195890714,Wien
+30627,Pottenstein,36661.3323260025,Wien
+30629,Reisenberg,26266.4806809401,Wien
+30631,Schönau an der Triesting,32804.2831343385,Wien
+30633,Seibersdorf,29470.9102757228,Wien
+30635,Sooß,28041.3104638303,Wien
+30636,Tattendorf,29171.4613130831,Wien
+30637,Teesdorf,29543.5103365752,Wien
+30639,Traiskirchen,22785.708732768,Wien
+30641,Trumau,23726.8989295673,Wien
+30645,Weissenbach an der Triesting,33512.7580680101,Wien
+30646,Blumau-Neurißhof,32086.9037342747,Wien
+30701,Au am Leithaberge,35058.0043585945,Wien
+30702,Bad Deutsch-Altenburg,40542.0695419717,Wien
+30703,Berg,50000.9628717774,Wien
+30704,Bruck an der Leitha,34555.8480054617,Wien
+30706,Enzersdorf an der Fischa,23885.3726942515,Wien
+30708,Göttlesbrunn-Arbesthal,29985.6363586322,Wien
+30709,Götzendorf an der Leitha,24301.4924059872,Wien
+30710,Hainburg a.d. Donau,43110.5223304619,Wien
+30711,Haslau-Maria Ellend,26554.2024415079,Wien
+30712,Höflein,33622.5222557314,Wien
+30713,Hof am Leithaberge,33107.3354994461,Wien
+30715,Hundsheim,44009.312831877,Wien
+30716,Mannersdorf am Leithagebirge,31191.6547780409,Wien
+30718,Petronell-Carnuntum,37463.4400214407,Wien
+30719,Prellenkirchen,45927.8596304764,Wien
+30721,Rohrau,38721.1157432571,Wien
+30722,Scharndorf,32902.304490965,Wien
+30724,Sommerein,31705.6174857549,Wien
+30726,Trautmannsdorf an der Leitha,28184.0964277446,Wien
+30728,Wolfsthal,48205.6591760067,Wien
+30729,Ebergassing,20136.7641309165,Wien
+30730,Fischamend,20222.2002999987,Wien
+30731,Gramatneusiedl,21630.4325098303,Wien
+30732,Himberg,16723.6954100821,Wien
+30733,Klein-Neusiedl,19964.9824560747,Wien
+30734,Lanzendorf,11390.6137790582,Wien
+30735,Leopoldsdorf,11179.772877965,Wien
+30736,Maria-Lanzendorf,12601.6312687121,Wien
+30737,Moosbrunn,22438.189599739,Wien
+30738,Rauchenwarth,17192.1198258223,Wien
+30739,Schwadorf,20295.723465542,Wien
+30740,Schwechat,13288.7540423269,Wien
+30741,Zwölfaxing,13514.0809335647,Wien
+30801,Aderklaa,13823.6353352855,Wien
+30802,Andlersdorf,22259.1789284484,Wien
+30803,Angern an der March,39087.9905537502,Wien
+30804,Auersthal,26333.9067149135,Wien
+30805,Bad Pirawarth,30763.190433003,Wien
+30808,Deutsch-Wagram,17004.8242336753,Wien
+30810,Drösing,53392.062613009,Wien
+30811,Dürnkrut,45654.5907889577,Wien
+30812,Ebenthal,39281.9448138992,Wien
+30813,Eckartsau,32041.5469585119,Wien
+30814,Engelhartstetten,39021.4721278397,Wien
+30817,Gänserndorf,27675.6803825209,Wien
+30819,Glinzendorf,20155.9797749001,Wien
+30821,Groß-Enzersdorf,17043.7721990798,Wien
+30822,Großhofen,17945.2411860073,Wien
+30824,Groß-Schweinbarth,28899.0748101624,Wien
+30825,Haringsee,29092.632519012,Wien
+30826,Hauskirchen,51207.4429701748,Wien
+30827,Hohenau an der March,59136.2839513119,Wien
+30828,Hohenruppersdorf,34990.4015374477,Wien
+30829,Jedenspeigen,49163.0545091644,Wien
+30830,Lassee,33039.1192142587,Wien
+30831,Leopoldsdorf im Marchfeld,23874.6719543122,Wien
+30834,Mannsdorf an der Donau,22005.4463567018,Wien
+30835,Marchegg,39131.4568196452,Wien
+30836,Markgrafneusiedl,20957.3578108342,Wien
+30838,Matzen-Raggendorf,32100.9807604141,Wien
+30841,Neusiedl an der Zaya,52794.3239314326,Wien
+30842,Obersiebenbrunn,25545.5613637686,Wien
+30844,Orth an der Donau,25410.860515415,Wien
+30845,Palterndorf-Dobermannsdorf,53887.9375044973,Wien
+30846,Parbasdorf,17504.2778873721,Wien
+30848,Prottes,33883.3256312692,Wien
+30849,Raasdorf,14962.7101510639,Wien
+30850,Ringelsdorf-Niederabsdorf,55382.2566628733,Wien
+30852,Schönkirchen-Reyersdorf,28423.2701687469,Wien
+30854,Spannberg,37954.1939806245,Wien
+30856,Strasshof an der Nordbahn,23459.1328326095,Wien
+30857,Sulz im Weinviertel,38993.505109042,Wien
+30858,Untersiebenbrunn,28555.4386797715,Wien
+30859,Velm-Götzendorf,42196.8302372796,Wien
+30860,Weikendorf,32451.774152934,Wien
+30863,Zistersdorf,45953.6047093582,Wien
+30865,Weiden an der March,36538.6737806595,Wien
+30902,Amaliendorf-Aalfang,83652.9547798016,Linz
+30903,Brand-Nagelberg,80864.4489961167,Linz
+30904,Eggern,92822.7091000783,Linz
+30906,Eisgarn,91339.8194541475,Linz
+30908,Gmünd,74392.1626273579,Linz
+30909,Großdietmanns,68219.4129629801,Linz
+30910,Bad Großpertholz,49904.6149629788,Linz
+30912,Großschönau,61878.5791801014,Linz
+30913,Moorbad Harbach,56825.4984092272,Linz
+30915,Haugschlag,95625.572948412,Linz
+30916,Heidenreichstein,86799.190590439,Linz
+30917,Hirschbach,78426.4158411861,Linz
+30920,Hoheneich,75578.220263243,Linz
+30921,Kirchberg am Walde,75242.6993906637,Linz
+30925,Litschau,90455.7088646392,Linz
+30929,Reingers,97170.276412527,Linz
+30932,St. Martin,55589.905802644,Linz
+30935,Schrems,80343.1945109737,Linz
+30939,Unserfrau-Altweitra,65029.9160261727,Linz
+30940,Waldenstein,71342.9306746795,Linz
+30942,Weitra,62450.2972232348,Linz
+31001,Alberndorf im Pulkautal,59423.0325509956,Wien
+31008,Göllersdorf,37524.6492075292,Wien
+31009,Grabern,51296.6510991441,Wien
+31014,Guntersdorf,56136.4814257576,Wien
+31015,Hadres,58437.8750686699,Wien
+31016,Hardegg,78989.9431788463,Wien
+31018,Haugsdorf,60335.3556772521,Wien
+31019,Heldenberg,44748.2893311788,Wien
+31021,Hohenwarth-Mühlbach a.M.,54112.8572655842,Wien
+31022,Hollabrunn,43842.8260395528,Wien
+31025,Mailberg,54003.1789181323,Wien
+31026,Maissau,58027.687779764,Wien
+31028,Nappersdorf-Kammersdorf,47927.9939748306,Wien
+31033,Pernersdorf,61079.9458356717,Wien
+31035,Pulkau,67737.1554909725,Wien
+31036,Ravelsbach,54107.392610821,Wien
+31037,Retz,67683.5988043641,Wien
+31038,Retzbach,67852.5466898897,Wien
+31041,Schrattenthal,69093.7890606279,Wien
+31042,Seefeld-Kadolz,58929.9483872781,Wien
+31043,Sitzendorf an der Schmida,55143.5768230453,Wien
+31051,Wullersdorf,51359.5273287878,Wien
+31052,Zellerndorf,62173.5009159808,Wien
+31053,Ziersdorf,48667.532224642,Wien
+31101,Altenburg,76483.1697866971,Wien
+31102,Brunn an der Wild,85253.0436398474,Wien
+31103,Burgschleinitz-Kühnring,63033.9310030057,Wien
+31104,Drosendorf-Zissersdorf,90410.7641530065,Wien
+31105,Eggenburg,63773.5889848017,Wien
+31106,Gars am Kamp,68645.0146461116,Wien
+31107,Geras,82750.5486902165,Wien
+31109,Horn,74036.8918102972,Wien
+31110,Irnfritz-Messern,85329.5956709844,Wien
+31111,Japons,89392.318387406,Wien
+31113,Langau,85075.7946196243,Wien
+31114,Meiseldorf,68462.0459015978,Wien
+31117,Pernegg,80422.4345492184,Wien
+31119,Röhrenbach,82775.4174452606,Wien
+31120,Röschitz,63134.6489969301,Wien
+31121,Rosenburg-Mold,69676.856365952,Wien
+31123,St. Bernhard-Frauenhofen,78504.4513209493,Wien
+31124,Sigmundsherberg,72886.2451559596,Wien
+31129,Weitersfeld,76779.9068326695,Wien
+31130,Straning-Grafenberg,59496.4509025803,Wien
+31201,Bisamberg,14124.6398935582,Wien
+31202,Enzersfeld im Weinviertel,16921.7533479763,Wien
+31203,Ernstbrunn,36262.1279250326,Wien
+31204,Großmugl,35918.4244022168,Wien
+31205,Großrußbach,29814.2434343012,Wien
+31206,Hagenbrunn,14861.4547856119,Wien
+31207,Harmannsdorf,22927.1642949173,Wien
+31208,Hausleiten,29130.2208951295,Wien
+31213,Korneuburg,16136.9502697177,Wien
+31214,Langenzersdorf,11109.1055420665,Wien
+31215,Leitzersdorf,25768.6571322294,Wien
+31216,Leobendorf,19813.0712742536,Wien
+31224,Rußbach,36715.1103961037,Wien
+31226,Sierndorf,30770.7255790841,Wien
+31227,Spillern,20189.1447316856,Wien
+31228,Stetteldorf am Wagram,34128.405274462,Wien
+31229,Stetten,17484.6464285473,Wien
+31230,Stockerau,23640.7564840297,Wien
+31234,Niederhollabrunn,28724.3811995748,Wien
+31235,Gerasdorf bei Wien,13863.5277207332,Wien
+31301,Aggsbach,74091.8627415228,Wien
+31302,Albrechtsberg an der Großen Krems,79406.3096207513,Linz
+31303,Bergern im Dunkelsteinerwald,66344.3575711795,Wien
+31304,Dürnstein,67478.7752248339,Wien
+31308,Grafenegg,53600.625743151,Wien
+31309,Furth bei Göttweig,59888.4346812601,Wien
+31310,Gedersdorf,55400.6078602273,Wien
+31311,Gföhl,74216.8403117119,Wien
+31315,Hadersdorf-Kammern,56771.2528095298,Wien
+31319,Jaidhof,75207.5659984741,Wien
+31321,Krumau am Kamp,79906.3580801174,Wien
+31322,Langenlois,62397.7741979954,Wien
+31323,Lengenfeld,65202.7392267723,Wien
+31324,Lichtenau im Waldviertel,81374.8124122726,Linz
+31326,Maria Laach am Jauerling,75799.4662095965,Linz
+31327,Mautern an der Donau,62443.535700236,Wien
+31330,Mühldorf,75667.3465211961,Linz
+31333,Paudorf,58778.9252502644,Wien
+31336,Rastenfeld,83495.9413962766,Linz
+31337,Rohrendorf bei Krems,58659.3863275938,Wien
+31338,Rossatz-Arnsdorf,69764.9155679975,Wien
+31340,St. Leonhard am Hornerwald,73838.1530871489,Wien
+31343,Senftenberg,68884.0029879244,Wien
+31344,Spitz,75361.2718114994,Wien
+31346,Straß im Straßertale,56964.6300048601,Wien
+31347,Stratzing,63148.0493677004,Wien
+31350,Weinzierl am Walde,74876.8102955399,Wien
+31351,Weißenkirchen in der Wachau,72235.8243524371,Wien
+31355,Schönberg am Kamp,63101.1410954478,Wien
+31356,Droß,67761.9540806094,Wien
+31401,Annaberg,84993.0040565131,Wien
+31402,Eschenau,63548.865272522,Wien
+31403,Hainfeld,46866.6790869471,Wien
+31404,Hohenberg,65476.7580815046,Wien
+31405,Kaumberg,41249.1825212194,Wien
+31406,Kleinzell,56198.7248190318,Wien
+31407,Lilienfeld,63591.6391928227,Wien
+31408,Mitterbach am Erlaufsee,85479.3574162465,Graz
+31409,Ramsau,48690.7267377676,Wien
+31410,Rohrbach an der Gölsen,49588.3614256363,Wien
+31411,St. Aegyd am Neuwalde,77395.5354278086,Wien
+31412,St. Veit an der Gölsen,56172.988070164,Wien
+31413,Traisen,60108.5389655644,Wien
+31414,Türnitz,72969.4303233988,Wien
+31502,Artstetten-Pöbring,66470.1571619642,Linz
+31503,Bergland,64372.9109755451,Linz
+31504,Bischofstetten,68271.6659795204,Wien
+31505,Blindenmarkt,52841.9491226788,Linz
+31506,Dorfstetten,50308.8979820751,Linz
+31507,Dunkelsteinerwald,69015.8735374803,Wien
+31508,Erlauf,65708.3599421623,Linz
+31509,Golling an der Erlauf,64569.2855348607,Linz
+31511,Hofamt Priel,55850.7888576868,Linz
+31513,Hürm,72429.5869652887,Wien
+31514,Kilb,73954.6189722167,Wien
+31515,Kirnberg an der Mank,77442.5027202143,Linz
+31516,Klein-Pöchlarn,67411.4447901525,Linz
+31517,Krummnußbaum,62609.6360934042,Linz
+31519,Leiben,70703.1195588119,Linz
+31520,Loosdorf,72246.091807562,Wien
+31521,Mank,77866.889749368,Wien
+31522,Marbach an der Donau,61464.3012929974,Linz
+31523,Maria Taferl,62798.1298316726,Linz
+31524,Melk,75881.0070577926,Linz
+31525,Münichreith-Laimbach,59504.7264634762,Linz
+31527,Neumarkt an der Ybbs,57870.2948919139,Linz
+31528,Nöchling,50391.1972460232,Linz
+31530,Persenbeug-Gottsdorf,59267.3549448195,Linz
+31531,Petzenkirchen,64236.9609436889,Linz
+31533,Pöchlarn,68395.999969854,Linz
+31534,Pöggstall,64317.3525763723,Linz
+31535,Raxendorf,71444.6216186916,Linz
+31537,Ruprechtshofen,70833.1381643715,Linz
+31539,St. Leonhard am Forst,74322.3079362422,Linz
+31540,St. Martin-Karlsbach,53458.4444222238,Linz
+31541,St. Oswald,52142.3697340736,Linz
+31542,Schönbühel-Aggsbach,72219.2762395809,Wien
+31543,Schollach,75439.2167022113,Wien
+31546,Weiten,69568.5020594621,Linz
+31549,Ybbs an der Donau,57686.7454762122,Linz
+31550,Zelking-Matzleinsdorf,70773.0456014033,Linz
+31551,Texingtal,79181.1997519967,Linz
+31552,Yspertal,55217.5719813828,Linz
+31553,Emmersdorf an der Donau,74917.2212067283,Linz
+31601,Altlichtenwarth,58399.1774760007,Wien
+31603,Asparn an der Zaya,42855.8116011006,Wien
+31604,Bernhardsthal,63754.2747607482,Wien
+31605,Bockfließ,23159.7288705587,Wien
+31606,Drasenhofen,63837.7551200366,Wien
+31608,Falkenstein,58532.0675543526,Wien
+31609,Fallbach,49279.4239055354,Wien
+31611,Gaubitsch,50292.2451676131,Wien
+31612,Gaweinstal,35980.1607121926,Wien
+31613,Gnadendorf,44112.3951737672,Wien
+31614,Großebersdorf,18812.6999007534,Wien
+31615,Großengersdorf,21682.9725017668,Wien
+31616,Großharras,54857.7334390644,Wien
+31617,Großkrut,56067.4183853449,Wien
+31620,Hausbrunn,58332.2159305569,Wien
+31621,Herrnbaumgarten,59045.9848964689,Wien
+31622,Hochleithen,29086.4264478809,Wien
+31627,Kreuttal,27689.7642877895,Wien
+31628,Kreuzstetten,31615.0753931914,Wien
+31629,Laa an der Thaya,56106.6823012362,Wien
+31630,Ladendorf,36437.7204151566,Wien
+31633,Mistelbach,43755.5487238866,Wien
+31634,Neudorf im Weinviertel,58596.7921492302,Wien
+31636,Niederleis,37822.0637766081,Wien
+31642,Pillichsdorf,19999.9756237677,Wien
+31644,Poysdorf,54535.1710287968,Wien
+31645,Rabensburg,62166.5977478596,Wien
+31646,Schrattenberg,62023.471369428,Wien
+31649,Staatz,52362.8511617925,Wien
+31650,Stronsdorf,48660.5560592402,Wien
+31651,Ulrichskirchen-Schleinbach,24406.8173129523,Wien
+31652,Unterstinkenbrunn,52293.4213582697,Wien
+31653,Wildendürnbach,63433.4643892744,Wien
+31654,Wilfersdorf,47920.1211425259,Wien
+31655,Wolkersdorf im Weinviertel,22897.1100730463,Wien
+31658,Ottenthal,64300.7699770281,Wien
+31701,Achau,14317.5672075524,Wien
+31702,Biedermannsdorf,13569.3330318661,Wien
+31703,Breitenfurt bei Wien,17956.8600721583,Wien
+31704,Brunn am Gebirge,12761.3435618912,Wien
+31706,Gaaden,21005.9542761956,Wien
+31707,Gießhübl,16633.8786053158,Wien
+31709,Gumpoldskirchen,19647.4642039459,Wien
+31710,Guntramsdorf,18222.1159237032,Wien
+31711,Hennersdorf,10522.7033297106,Wien
+31712,Hinterbrühl,18536.9635385575,Wien
+31713,Kaltenleutgeben,18071.4766460173,Wien
+31714,Laab im Walde,16090.1534337946,Wien
+31715,Laxenburg,16782.7119444866,Wien
+31716,Maria Enzersdorf,14473.5403956473,Wien
+31717,Mödling,16173.8009497955,Wien
+31718,Münchendorf,19836.1544773219,Wien
+31719,Perchtoldsdorf,13462.5285844647,Wien
+31723,Vösendorf,10338.5884093208,Wien
+31725,Wiener Neudorf,14308.6603401986,Wien
+31726,Wienerwald,23672.3497316798,Wien
+31801,Altendorf,67630.6608360825,Wien
+31802,Aspang-Markt,72482.3288803354,Graz
+31803,Aspangberg-St. Peter,68726.7140745838,Graz
+31804,Breitenau,55215.9264817238,Wien
+31805,Breitenstein,70152.0691699565,Graz
+31806,Buchbach,64461.3906297764,Wien
+31807,Edlitz,70105.5824289235,Wien
+31808,Enzenreith,67349.2202828534,Wien
+31809,Feistritz am Wechsel,71407.3777237672,Wien
+31810,Gloggnitz,68771.776856889,Wien
+31811,Grafenbach-St. Valentin,64719.3075978622,Wien
+31812,Grimmenstein,68310.73565655,Wien
+31813,Grünbach am Schneeberg,53926.9026261806,Wien
+31814,Kirchberg am Wechsel,70980.7497424988,Graz
+31815,Mönichkirchen,66954.9309369889,Graz
+31817,Natschbach-Loipersbach,59138.9071498202,Wien
+31818,Neunkirchen,56110.28684761,Wien
+31820,Otterthal,71980.575313938,Graz
+31821,Payerbach,69636.6272556384,Wien
+31823,Pitten,57698.5824148497,Wien
+31825,Prigglitz,65815.9515131432,Wien
+31826,Puchberg am Schneeberg,59782.9834856722,Wien
+31827,Raach am Hochgebirge,71106.5418836873,Wien
+31829,Reichenau an der Rax,71107.5467950668,Wien
+31830,St. Corona am Wechsel,70101.3945747069,Graz
+31831,St. Egyden am Steinfeld,51451.1370605109,Wien
+31832,Scheiblingkirchen-Thernberg,62891.7769735115,Wien
+31833,Schottwien,70178.8139500369,Graz
+31834,Schrattenbach,55868.679922812,Wien
+31835,Schwarzau am Steinfeld,54778.4940707024,Wien
+31836,Schwarzau im Gebirge,68880.3523928395,Wien
+31837,Seebenstein,59483.8523296025,Wien
+31838,Semmering,69379.3717512879,Graz
+31839,Ternitz,59657.1730244975,Wien
+31840,Thomasberg,72176.2875981525,Wien
+31841,Trattenbach,66955.3368636874,Graz
+31842,Bürg-Vöstenhof,64633.3317588948,Wien
+31843,Warth,66683.1176447012,Wien
+31844,Wartmannstetten,62740.6803356683,Wien
+31845,Willendorf,51681.7679800923,Wien
+31846,Wimpassing im Schwarzatale,62129.1239691956,Wien
+31847,Würflach,54827.1582785496,Wien
+31848,Zöbern,71117.7949480016,Graz
+31849,Höflein an der Hohen Wand,52521.4397417188,Wien
+31901,Altlengbach,33826.7187488494,Wien
+31902,Asperhofen,32634.1576602068,Wien
+31903,Böheimkirchen,46384.5930020161,Wien
+31904,Brand-Laaben,40189.7057568649,Wien
+31905,Eichgraben,29706.4967376657,Wien
+31906,Frankenfels,82068.5536241334,Linz
+31907,Gerersdorf,61351.9296664869,Wien
+31909,Hofstetten-Grünau,66458.3054288019,Wien
+31910,Hafnerbach,66151.885410837,Wien
+31911,Haunoldstein,68839.5369022692,Wien
+31912,Herzogenburg,48965.4958491795,Wien
+31913,Inzersdorf-Getzersdorf,52569.2225112977,Wien
+31915,Kapelln,45471.6400677693,Wien
+31916,Karlstetten,61718.4071037798,Wien
+31917,Kasten bei Böheimkirchen,44474.2486812947,Wien
+31918,Kirchberg an der Pielach,73203.8734966895,Wien
+31919,Kirchstetten,41557.6309257273,Wien
+31920,Loich,76541.0878936797,Wien
+31921,Maria-Anzbach,32092.3417716099,Wien
+31922,Markersdorf-Haindorf,66323.9346229427,Wien
+31923,Michelbach,47680.7590324671,Wien
+31925,Neidling,61954.406470136,Wien
+31926,Neulengbach,37348.3860172712,Wien
+31927,Neustift-Innermanzing,37420.4029836046,Wien
+31928,Nußdorf ob der Traisen,53032.7456784018,Wien
+31929,Ober-Grafendorf,61740.763072252,Wien
+31930,Obritzberg-Rust,58001.2145592212,Wien
+31932,Prinzersdorf,63702.5426257494,Wien
+31934,Pyhra,51155.160725673,Wien
+31935,Rabenstein an der Pielach,69303.8360518605,Wien
+31938,St. Margarethen an der Sierning,65958.6866875434,Wien
+31939,Schwarzenbach an der Pielach,80917.6945567365,Wien
+31940,Statzendorf,55403.4668416319,Wien
+31941,Stössing,43319.3208813096,Wien
+31943,Traismauer,48452.7964810056,Wien
+31945,Weinburg,63804.5207496683,Wien
+31946,Perschling,42213.1957379831,Wien
+31947,Wilhelmsburg,58361.0032460323,Wien
+31948,Wölbling,60891.052376598,Wien
+31949,Gablitz,18319.231772713,Wien
+31950,Mauerbach,16173.7004956781,Wien
+31951,Pressbaum,24895.9386525823,Wien
+31952,Purkersdorf,16163.864707978,Wien
+31953,Tullnerbach,21336.8825867924,Wien
+31954,Wolfsgraben,20821.5713228943,Wien
+32001,Gaming,77017.4939717037,Linz
+32002,Göstling an der Ybbs,73622.6793451622,Linz
+32003,Gresten,62899.2943017649,Linz
+32004,Gresten-Land,62175.2151880594,Linz
+32005,Lunz am See,71139.9409741035,Linz
+32006,Oberndorf an der Melk,71509.2016095364,Linz
+32007,Puchenstuben,83256.452285025,Linz
+32008,Purgstall an der Erlauf,65779.8806627295,Linz
+32009,Randegg,55922.9282813607,Linz
+32010,Reinsberg,65448.6057441088,Linz
+32011,St. Anton an der Jeßnitz,76523.5316146475,Linz
+32012,St. Georgen an der Leys,74243.9965028796,Linz
+32013,Scheibbs,70164.4760292465,Linz
+32014,Steinakirchen am Forst,59000.7152129713,Linz
+32015,Wang,57760.9530745813,Linz
+32016,Wieselburg,63981.744787514,Linz
+32017,Wieselburg-Land,62828.1063204261,Linz
+32018,Wolfpassing,59808.8734718292,Linz
+32101,Absdorf,36090.2478636279,Wien
+32104,Atzenbrugg,38524.2209307928,Wien
+32106,Fels am Wagram,49390.3789554153,Wien
+32107,Grafenwörth,49266.3122770232,Wien
+32109,Großriedenthal,47525.7875335613,Wien
+32110,Großweikersdorf,41127.0591084826,Wien
+32112,Judenau-Baumgarten,26765.2841547529,Wien
+32114,Kirchberg am Wagram,43019.129826909,Wien
+32115,Königsbrunn am Wagram,38020.3864448828,Wien
+32116,Königstetten,19203.3387807585,Wien
+32119,Langenrohr,30885.5710652499,Wien
+32120,Michelhausen,33659.1457753229,Wien
+32131,Sieghartskirchen,26956.734526075,Wien
+32132,Sitzenberg-Reidling,43433.3871750567,Wien
+32134,Tulbing,20695.6842786927,Wien
+32135,Tulln an der Donau,27233.634015137,Wien
+32139,Würmla,38745.2034885345,Wien
+32140,Zeiselmauer-Wolfpassing,19617.7984283859,Wien
+32141,Zwentendorf an der Donau,40152.0046269521,Wien
+32142,St. Andrä-Wördern,17684.8758258828,Wien
+32143,Muckendorf-Wipfing,21637.3151221226,Wien
+32144,Klosterneuburg,12338.444043723,Wien
+32202,Dietmanns,96276.5194269627,Linz
+32203,Dobersberg,102395.216647293,Linz
+32206,Gastern,94948.5421192959,Linz
+32207,Groß-Siegharts,96967.3652494498,Wien
+32209,Karlstein an der Thaya,104136.356071562,Linz
+32210,Kautzen,98836.9730546784,Linz
+32212,Ludweis-Aigen,91718.8430239229,Wien
+32214,Pfaffenschlag bei Waidhofen a.d.Thaya,90211.704735406,Linz
+32216,Raabs an der Thaya,98710.2612577505,Wien
+32217,Thaya,96188.7983025984,Linz
+32219,Vitis,83055.3488236576,Linz
+32220,Waidhofen an der Thaya,94943.2559125874,Linz
+32221,Waidhofen an der Thaya-Land,88910.8694892618,Linz
+32222,Waldkirchen an der Thaya,107165.67781283,Linz
+32223,Windigsteig,89227.5165892983,Linz
+32301,Bad Fischau-Brunn,44978.1791182446,Wien
+32302,Bad Schönau,75985.0015552537,Graz
+32304,Ebenfurth,35718.6460095524,Wien
+32305,Eggendorf,38388.0069779382,Wien
+32306,Bad Erlach,56239.9536683753,Wien
+32307,Felixdorf,37941.1353299827,Wien
+32308,Gutenstein,55048.4458390719,Wien
+32309,Hochneukirchen-Gschaidt,70464.4140134122,Graz
+32310,Hochwolkersdorf,60364.9131664911,Wien
+32311,Hohe Wand,48873.1274033487,Wien
+32312,Hollenthon,70082.9279991142,Wien
+32313,Katzelsdorf,49111.860708425,Wien
+32314,Kirchschlag in der Buckligen Welt,77593.7063134147,Wien
+32315,Krumbach,74508.3614479759,Graz
+32316,Lanzenkirchen,52958.4879438024,Wien
+32317,Lichtenegg,70822.4746638862,Wien
+32318,Lichtenwörth,43355.8650779127,Wien
+32319,Markt Piesting,43175.1930785437,Wien
+32320,Matzendorf-Hölles,38129.6688524536,Wien
+32321,Miesenbach,51454.2590131373,Wien
+32322,Muggendorf,47063.1696913456,Wien
+32323,Pernitz,44857.7581408589,Wien
+32324,Rohr im Gebirge,59788.1875604886,Wien
+32325,Bromberg,62390.7539006206,Wien
+32326,Schwarzenbach,62756.2588037794,Wien
+32327,Sollenau,35292.5950077205,Wien
+32330,Theresienfeld,39960.715535482,Wien
+32331,Waidmannsfeld,49177.0704043055,Wien
+32332,Waldegg,44659.669134438,Wien
+32333,Walpersbach,56593.109440114,Wien
+32334,Weikersdorf am Steinfelde,48340.0699092877,Wien
+32335,Wiesmath,66790.8237656125,Wien
+32336,Winzendorf-Muthmannsdorf,46804.6791614219,Wien
+32337,Wöllersdorf-Steinabrückl,41095.0326559745,Wien
+32338,Zillingdorf,40452.4361406011,Wien
+32501,Allentsteig,87042.4000207093,Linz
+32502,Arbesbach,51641.5670588306,Linz
+32503,Bärnkopf,53460.9380447769,Linz
+32504,Echsenbach,81637.4708525693,Linz
+32505,Göpfritz an der Wild,93369.3258733662,Wien
+32506,Grafenschlag,66575.228274941,Linz
+32508,Groß Gerungs,57709.6875484453,Linz
+32509,Großgöttfritz,70624.7761189629,Linz
+32511,Gutenbrunn,58340.8159645967,Linz
+32514,Kirchschlag,67913.4948520083,Linz
+32515,Kottes-Purk,74423.558977339,Linz
+32516,Langschlag,51532.5477167564,Linz
+32517,Martinsberg,62590.5604235229,Linz
+32518,Ottenschlag,67329.4854790881,Linz
+32519,Altmelon,50872.6072000573,Linz
+32520,Pölla,86426.0069586777,Wien
+32521,Rappottenstein,60928.8508750692,Linz
+32522,Sallingberg,71893.3014924963,Linz
+32523,Schönbach,57655.5907343667,Linz
+32524,Schwarzenau,86675.9716848473,Linz
+32525,Schweiggers,70205.7978540227,Linz
+32528,Bad Traunstein,61427.7892784656,Linz
+32529,Waldhausen,76245.9989101629,Linz
+32530,Zwettl-Niederösterreich,72825.0647478613,Linz
+40101,Linz,109016.018288326,Salzburg
+40201,Steyr,26759.4282709802,Linz
+40301,Wels,25137.2238667633,Linz
+40401,Altheim,51411.4766679263,Salzburg
+40402,Aspach,46995.9761460055,Salzburg
+40403,Auerbach,30967.1378484228,Salzburg
+40404,Braunau am Inn,48828.966900516,Salzburg
+40405,Burgkirchen,45030.3474863896,Salzburg
+40406,Eggelsberg,31992.0545594051,Salzburg
+40407,Feldkirchen bei Mattighofen,30283.8059724303,Salzburg
+40408,Franking,30010.1382849819,Salzburg
+40409,Geretsberg,33965.6617081772,Salzburg
+40410,Gilgenberg am Weilhart,38580.5476724501,Salzburg
+40411,Haigermoos,29664.8970555561,Salzburg
+40412,Handenberg,38702.8935991946,Salzburg
+40413,Helpfau-Uttendorf,40759.1968561849,Salzburg
+40414,Hochburg-Ach,40380.3605008204,Salzburg
+40415,Höhnhart,43639.7006234841,Salzburg
+40416,Jeging,28989.340909422,Salzburg
+40417,Kirchberg bei Mattighofen,27509.9310045099,Salzburg
+40418,Lengau,29986.0649271974,Salzburg
+40419,Lochen am See,24791.2681342414,Salzburg
+40420,Maria Schmolln,38801.1129668037,Salzburg
+40421,Mattighofen,34557.9287421179,Salzburg
+40422,Mauerkirchen,43885.6237290216,Salzburg
+40423,Mining,53771.3012819326,Salzburg
+40424,Moosbach,46217.1462357852,Salzburg
+40425,Moosdorf,27826.6533487255,Salzburg
+40426,Munderfing,31612.2651122562,Salzburg
+40427,Neukirchen an der Enknach,43511.0256829137,Salzburg
+40428,Ostermiething,33490.2038938307,Salzburg
+40429,Palting,24547.4242375773,Salzburg
+40430,Perwang am Grabensee,24418.3755089004,Salzburg
+40431,Pfaffstätt,31686.5233377103,Salzburg
+40432,Pischelsdorf am Engelbach,35928.1715695654,Salzburg
+40433,Polling im Innkreis,51664.7792447715,Salzburg
+40434,Roßbach,47353.3193096609,Salzburg
+40435,St. Georgen am Fillmannsbach,35815.6781451586,Salzburg
+40436,St. Johann am Walde,39118.9769302757,Salzburg
+40437,St. Pantaleon,27386.5417192107,Salzburg
+40438,St. Peter am Hart,51258.590507516,Salzburg
+40439,St. Radegund,39827.9513848806,Salzburg
+40440,St. Veit im Innkreis,48761.5153701136,Salzburg
+40441,Schalchen,36193.8509851304,Salzburg
+40442,Schwand im Innkreis,43335.291356747,Salzburg
+40443,Tarsdorf,35654.5450279234,Salzburg
+40444,Treubach,45206.6767223894,Salzburg
+40445,Überackern,44356.4526545482,Salzburg
+40446,Weng im Innkreis,50521.6556768007,Salzburg
+40501,Alkoven,16222.2919287192,Linz
+40502,Aschach an der Donau,25133.4584675549,Linz
+40503,Eferding,22172.226826776,Linz
+40504,Fraham,21738.5558986856,Linz
+40505,Haibach ob der Donau,34043.6128596737,Linz
+40506,Hartkirchen,26961.4215587903,Linz
+40507,Hinzenbach,24583.6135376658,Linz
+40508,Prambachkirchen,29895.9694169048,Linz
+40509,Pupping,21857.4339486719,Linz
+40510,St. Marienkirchen an der Polsenz,28568.6122735873,Linz
+40511,Scharten,23044.3022497593,Linz
+40512,Stroheim,28709.9665729389,Linz
+40601,Freistadt,27616.708476411,Linz
+40602,Grünbach,33590.0163521484,Linz
+40603,Gutau,26529.9148182889,Linz
+40604,Hagenberg im Mühlkreis,18413.9944505635,Linz
+40605,Hirschbach im Mühlkreis,23792.4967349267,Linz
+40606,Kaltenberg,39117.4806179291,Linz
+40607,Kefermarkt,23405.1012230455,Linz
+40608,Königswiesen,41381.2690651564,Linz
+40609,Lasberg,27762.7900447366,Linz
+40610,Leopoldschlag,38937.8408097707,Linz
+40611,Liebenau,45174.6486368142,Linz
+40612,Neumarkt im Mühlkreis,19846.4957312099,Linz
+40613,Pierbach,33616.4226064967,Linz
+40614,Pregarten,19579.3034302692,Linz
+40615,Rainbach im Mühlkreis,32767.0508520106,Linz
+40616,Sandl,39793.4784292387,Linz
+40617,St. Leonhard bei Freistadt,32658.4042505978,Linz
+40618,St. Oswald bei Freistadt,32758.7060994754,Linz
+40619,Schönau im Mühlkreis,32020.4594370265,Linz
+40620,Tragwein,22372.2801961389,Linz
+40621,Unterweißenbach,40484.2366590779,Linz
+40622,Unterweitersdorf,14728.5055575318,Linz
+40623,Waldburg,27288.998943433,Linz
+40624,Wartberg ob der Aist,15102.3366905474,Linz
+40625,Weitersfelden,37956.9821713862,Linz
+40626,Windhaag bei Freistadt,38552.7889611405,Linz
+40627,Bad Zell,27739.9887036767,Linz
+40701,Altmünster,50403.8519182466,Salzburg
+40702,Bad Goisern am Hallstättersee,45556.825477038,Salzburg
+40703,Bad Ischl,45813.8741203082,Salzburg
+40704,Ebensee am Traunsee,54393.631072166,Salzburg
+40705,Gmunden,58316.8320170108,Linz
+40706,Gosau,46366.3377359465,Salzburg
+40707,Grünau im Almtal,60496.9334804314,Linz
+40708,Gschwandt,52436.1027976726,Linz
+40709,Hallstatt,52026.0090166108,Salzburg
+40710,Kirchham,47685.0648939646,Linz
+40711,Laakirchen,49021.018907785,Linz
+40712,Obertraun,57829.9494019844,Salzburg
+40713,Ohlsdorf,53301.701331799,Linz
+40714,Pinsdorf,54409.5752502848,Salzburg
+40715,Roitham am Traunfall,45819.8947048737,Linz
+40716,St. Konrad,52893.1895989862,Linz
+40717,St. Wolfgang im Salzkammergut,34818.3732825265,Salzburg
+40718,Traunkirchen,54189.6549401941,Salzburg
+40719,Scharnstein,51092.2331801517,Linz
+40720,Vorchdorf,42989.9078777673,Linz
+40801,Aistersheim,43956.1823325236,Linz
+40802,Bad Schallerbach,30404.7631240567,Linz
+40804,Eschenau im Hausruckkreis,39661.6286097625,Linz
+40805,Gallspach,38649.6333763624,Linz
+40806,Gaspoltshofen,46477.4397119853,Linz
+40807,Geboltskirchen,52401.9873052993,Linz
+40808,Grieskirchen,36748.7068536138,Linz
+40809,Haag am Hausruck,51634.0469569816,Linz
+40810,Heiligenberg,37764.7806133855,Linz
+40811,Hofkirchen an der Trattnach,44102.8764866102,Linz
+40812,Kallham,45989.3047147512,Linz
+40813,Kematen am Innbach,36609.4997320689,Linz
+40814,Meggenhofen,40576.221955473,Linz
+40815,Michaelnbach,36916.5860991114,Linz
+40816,Natternbach,45720.447122515,Linz
+40817,Neukirchen am Walde,42682.9923079299,Linz
+40818,Neumarkt im Hausruckkreis,43402.4407766437,Linz
+40820,Pötting,40373.6749129107,Linz
+40821,Pollham,33611.1265185784,Linz
+40822,Pram,52900.0289822392,Linz
+40823,Rottenbach,48343.9727077912,Linz
+40824,St. Agatha,34985.2212328619,Linz
+40825,St. Georgen bei Grieskirchen,40346.7259008058,Linz
+40826,St. Thomas,32271.6701750806,Linz
+40827,Schlüßlberg,33956.2417606079,Linz
+40828,Steegen,43441.0453745056,Linz
+40829,Taufkirchen an der Trattnach,43184.5319438601,Linz
+40830,Tollet,38312.5864736359,Linz
+40831,Waizenkirchen,34507.2450898167,Linz
+40832,Wallern an der Trattnach,27384.7524044131,Linz
+40833,Weibern,47688.189566836,Linz
+40834,Wendling,48704.862917556,Linz
+40835,Peuerbach,41231.7480170995,Linz
+40901,Edlbach,64244.8109316339,Linz
+40902,Grünburg,40763.1788397747,Linz
+40903,Hinterstoder,68038.2934070503,Linz
+40904,Inzersdorf im Kremstal,43769.3836830127,Linz
+40905,Kirchdorf an der Krems,44912.8097027875,Linz
+40906,Klaus an der Pyhrnbahn,57583.0358766082,Linz
+40907,Kremsmünster,28786.4716545555,Linz
+40908,Micheldorf in Oberösterreich,47313.267158133,Linz
+40909,Molln,48651.6509726822,Linz
+40910,Nußbach,36728.1946436532,Linz
+40911,Oberschlierbach,41212.9572358427,Linz
+40912,Pettenbach,42075.7305016368,Linz
+40913,Ried im Traunkreis,34209.3765140094,Linz
+40914,Rosenau am Hengstpaß,61044.1896145491,Linz
+40915,Roßleithen,60758.0516304254,Linz
+40916,St. Pankraz,57665.6843858728,Linz
+40917,Schlierbach,41021.6523096258,Linz
+40918,Spital am Pyhrn,69458.4254636757,Linz
+40919,Steinbach am Ziehberg,48349.8860337014,Linz
+40920,Steinbach an der Steyr,36929.8320781313,Linz
+40921,Vorderstoder,65627.2387550447,Linz
+40922,Wartberg an der Krems,35784.4733146354,Linz
+40923,Windischgarsten,62362.0349869637,Linz
+41001,Allhaming,17727.4900453985,Linz
+41002,Ansfelden,9643.22388447621,Linz
+41003,Asten,9332.54144514946,Linz
+41004,Eggendorf im Traunkreis,21356.579608284,Linz
+41005,Enns,13504.4418420337,Linz
+41006,Hargelsberg,16929.6097534758,Linz
+41007,Hörsching,12322.209052089,Linz
+41008,Hofkirchen im Traunkreis,15990.7606672297,Linz
+41009,Kematen an der Krems,22849.9828682501,Linz
+41010,Kirchberg-Thening,12926.9370288699,Linz
+41011,Kronstorf,19666.8091591833,Linz
+41012,Leonding,5352.87631268417,Linz
+41013,St. Florian,10379.2002346966,Linz
+41014,Neuhofen an der Krems,17383.0390920545,Linz
+41015,Niederneukirchen,13601.6536169728,Linz
+41016,Oftering,14854.3479163086,Linz
+41017,Pasching,8591.10672212374,Linz
+41018,Piberbach,20986.108860573,Linz
+41019,Pucking,13750.3198841115,Linz
+41020,St. Marien,16251.9074154237,Linz
+41021,Traun,8802.33702155365,Linz
+41022,Wilhering,9725.28188450312,Linz
+41101,Allerheiligen im Mühlkreis,24153.3842668851,Linz
+41102,Arbing,30029.0192339371,Linz
+41103,Baumgartenberg,33206.925451172,Linz
+41104,Dimbach,43465.289951833,Linz
+41105,Grein,39948.5895465757,Linz
+41106,Katsdorf,13323.2062268004,Linz
+41107,Klam,35343.437186637,Linz
+41108,Bad Kreuzen,37692.216690745,Linz
+41109,Langenstein,11777.7628471438,Linz
+41110,Luftenberg an der Donau,8263.57413599796,Linz
+41111,Mauthausen,16705.5206306813,Linz
+41112,Mitterkirchen im Machland,30374.7432031714,Linz
+41113,Münzbach,30971.9359277901,Linz
+41114,Naarn im Machlande,24254.0650956947,Linz
+41115,Pabneukirchen,38327.6844463922,Linz
+41116,Perg,24764.5157165389,Linz
+41117,Rechberg,29383.7226807603,Linz
+41118,Ried in der Riedmark,15944.8426689151,Linz
+41119,St. Georgen am Walde,44941.108556794,Linz
+41120,St. Georgen an der Gusen,10256.768389883,Linz
+41121,St. Nikola an der Donau,44718.7606677019,Linz
+41122,St. Thomas am Blasenstein,33235.0833306201,Linz
+41123,Saxen,37039.2050315905,Linz
+41124,Schwertberg,20101.119960272,Linz
+41125,Waldhausen im Strudengau,47097.0845795871,Linz
+41126,Windhaag bei Perg,26743.1250155337,Linz
+41201,Andrichsfurt,59436.5013969326,Linz
+41202,Antiesenhofen,66979.2592312177,Salzburg
+41203,Aurolzmünster,58724.8354700923,Salzburg
+41204,Eberschwang,54721.5708417607,Salzburg
+41205,Eitzing,56492.8242601159,Salzburg
+41206,Geiersberg,53993.8968093419,Linz
+41207,Geinberg,54389.6161502775,Salzburg
+41208,Gurten,54870.6918881568,Salzburg
+41209,Hohenzell,58265.4325878487,Salzburg
+41210,Kirchdorf am Inn,57689.7343453906,Salzburg
+41211,Kirchheim im Innkreis,51370.6459500273,Salzburg
+41212,Lambrechten,59359.548077027,Linz
+41213,Lohnsburg am Kobernaußerwald,44046.2437092277,Salzburg
+41214,Mehrnbach,53531.1709700692,Salzburg
+41215,Mettmach,46283.4515642205,Salzburg
+41216,Mörschwang,61351.9177682835,Salzburg
+41217,Mühlheim am Inn,55401.2265560258,Salzburg
+41218,Neuhofen im Innkreis,53262.2097681653,Salzburg
+41219,Obernberg am Inn,61739.60312144,Salzburg
+41220,Ort im Innkreis,64684.3623042534,Linz
+41221,Pattigham,52468.9216910814,Salzburg
+41222,Peterskirchen,57507.8413971995,Linz
+41223,Pramet,49992.0328330781,Salzburg
+41224,Reichersberg,64048.3610288732,Salzburg
+41225,Ried im Innkreis,56142.3670506164,Salzburg
+41226,St. Georgen bei Obernberg am Inn,58597.8528088766,Salzburg
+41227,St. Marienkirchen am Hausruck,55701.3361088151,Linz
+41228,St. Martin im Innkreis,62699.9969667161,Salzburg
+41229,Schildorn,48872.5724878843,Salzburg
+41230,Senftenbach,58860.1819417197,Salzburg
+41231,Taiskirchen im Innkreis,55007.1221387766,Linz
+41232,Tumeltsham,59031.6383041125,Salzburg
+41233,Utzenaich,61689.559227793,Linz
+41234,Waldzell,43510.8797243296,Salzburg
+41235,Weilbach,58326.0584178782,Salzburg
+41236,Wippenham,53683.5048059067,Salzburg
+41304,Altenfelden,34583.0710518405,Linz
+41305,Arnreit,35938.0026454252,Linz
+41306,Atzesberg,44258.9140432952,Linz
+41307,Auberg,33362.0001528662,Linz
+41309,Haslach an der Mühl,37501.4590188865,Linz
+41311,Hörbich,39475.5497522156,Linz
+41312,Hofkirchen im Mühlkreis,42036.0212380816,Linz
+41313,Julbach,54052.127919487,Linz
+41314,Kirchberg ob der Donau,31971.0389923614,Linz
+41315,Klaffer am Hochficht,58101.0551142409,Linz
+41316,Kleinzell im Mühlkreis,30513.4675309286,Linz
+41317,Kollerschlag,49662.2283637732,Linz
+41318,Lembach im Mühlkreis,37697.1405417763,Linz
+41319,Lichtenau im Mühlkreis,39660.3530137965,Linz
+41320,Nebelberg,52452.780993192,Linz
+41321,Neufelden,32126.2900952708,Linz
+41322,Niederkappel,37966.2177479161,Linz
+41323,Niederwaldkirchen,25148.0342391697,Linz
+41324,Oberkappel,48705.9927730339,Linz
+41325,Oepping,43907.5296469809,Linz
+41326,Peilstein im Mühlviertel,48485.0054674931,Linz
+41327,Pfarrkirchen im Mühlkreis,46469.8693194034,Linz
+41328,Putzleinsdorf,42051.9608602898,Linz
+41329,Neustift im Mühlkreis,48700.6903413096,Linz
+41331,St. Johann am Wimberg,27118.2616448179,Linz
+41332,St. Martin im Mühlkreis,25706.1470776953,Linz
+41333,St. Oswald bei Haslach,43323.2688084256,Linz
+41334,St. Peter am Wimberg,31061.8965351049,Linz
+41336,St. Ulrich im Mühlkreis,28603.9237604344,Linz
+41337,St. Veit im Mühlkreis,23428.5232889364,Linz
+41338,Sarleinsbach,43169.6568200999,Linz
+41341,Schwarzenberg am Böhmerwald,61283.4527850892,Linz
+41342,Ulrichsberg,53124.7793436,Linz
+41343,Aigen-Schlägl,47821.2823219945,Linz
+41344,Rohrbach-Berg,40233.0634221515,Linz
+41345,Helfenberg,30134.7915530359,Linz
+41346,St. Stefan-Afiesl,35449.8986345622,Linz
+41401,Altschwendt,47172.8831659587,Linz
+41402,Andorf,56020.8519665276,Linz
+41403,Brunnenthal,65236.7838482924,Linz
+41404,Diersbach,55808.5859335576,Linz
+41405,Dorf an der Pram,50905.3611623043,Linz
+41406,Eggerding,62258.0043133677,Linz
+41407,Engelhartszell,50790.5341107806,Linz
+41408,Enzenkirchen,50392.135725332,Linz
+41409,Esternberg,60711.4404038638,Linz
+41410,Freinberg,66765.9244467243,Linz
+41411,Kopfing im Innkreis,51433.9694077944,Linz
+41412,Mayrhof,59992.7464583373,Linz
+41413,Münzkirchen,58766.996288482,Linz
+41414,Raab,50071.3071840497,Linz
+41415,Rainbach im Innkreis,61495.0913053262,Linz
+41416,Riedau,50005.2158316777,Linz
+41417,St. Aegidi,47710.3361197792,Linz
+41418,St. Florian am Inn,64474.0321745851,Linz
+41419,St. Marienkirchen bei Schärding,65129.5331625833,Linz
+41420,St. Roman,55842.2991231763,Linz
+41421,St. Willibald,46419.5107570472,Linz
+41422,Schärding,67867.1318787149,Linz
+41423,Schardenberg,65955.4048029939,Linz
+41424,Sigharting,54047.2226543004,Linz
+41425,Suben,66268.2579974563,Linz
+41426,Taufkirchen an der Pram,60252.5657336279,Linz
+41427,Vichtenstein,55387.2730231529,Linz
+41428,Waldkirchen am Wesen,41141.2455455748,Linz
+41429,Wernstein am Inn,66948.013342002,Linz
+41430,Zell an der Pram,52285.7619081718,Linz
+41501,Adlwang,32789.7770517605,Linz
+41502,Aschach an der Steyr,31697.505587517,Linz
+41503,Bad Hall,27830.2201041596,Linz
+41504,Dietach,22218.9340581195,Linz
+41505,Gaflenz,52054.7693871005,Linz
+41506,Garsten,32303.9538230322,Linz
+41507,Großraming,50084.3433175551,Linz
+41508,Laussa,39806.7489163807,Linz
+41509,Losenstein,41010.235269523,Linz
+41510,Maria Neustift,44390.4216738431,Linz
+41511,Pfarrkirchen bei Bad Hall,30854.7085545742,Linz
+41512,Reichraming,49503.6316917786,Linz
+41513,Rohr im Kremstal,25832.912600306,Linz
+41514,St. Ulrich bei Steyr,33990.0005157051,Linz
+41515,Schiedlberg,22177.8108330192,Linz
+41516,Sierning,25885.1028212121,Linz
+41517,Ternberg,38741.220314808,Linz
+41518,Waldneukirchen,30880.3465030946,Linz
+41521,Wolfern,20959.4088142644,Linz
+41522,Weyer,59641.9840441447,Linz
+41601,Alberndorf in der Riedmark,14355.2276920523,Linz
+41602,Altenberg bei Linz,10391.7485371311,Linz
+41603,Bad Leonfelden,26709.4138663402,Linz
+41604,Eidenberg,15214.9139660663,Linz
+41605,Engerwitzdorf,9071.92586601914,Linz
+41606,Feldkirchen an der Donau,19894.5604865439,Linz
+41607,Gallneukirchen,11066.685837435,Linz
+41608,Goldwörth,15965.5383272512,Linz
+41609,Gramastetten,14114.7298878609,Linz
+41610,Haibach im Mühlkreis,17350.5202058918,Linz
+41611,Hellmonsödt,15834.462077241,Linz
+41612,Herzogsdorf,20363.4123410554,Linz
+41613,Kirchschlag bei Linz,14604.8861451396,Linz
+41614,Lichtenberg,9971.77151287644,Linz
+41615,Oberneukirchen,22586.05425826,Linz
+41616,Ottenschlag im Mühlkreis,19912.2424584815,Linz
+41617,Ottensheim,11290.2848989784,Linz
+41618,Puchenau,7423.60615224001,Linz
+41619,Reichenau im Mühlkreis,20919.0176184097,Linz
+41620,Reichenthal,30163.547803202,Linz
+41621,St. Gotthard im Mühlkreis,18193.6821666903,Linz
+41622,Schenkenfelden,25080.9963973191,Linz
+41623,Sonnberg im Mühlkreis,19470.2202289055,Linz
+41624,Steyregg,4566.62554344265,Linz
+41626,Walding,14807.8301336845,Linz
+41627,Zwettl an der Rodl,20771.1116538912,Linz
+41628,Vorderweißenbach,30445.2308814268,Linz
+41701,Ampflwang im Hausruckwald,50450.6827983567,Salzburg
+41702,Attersee am Attersee,37949.1041000604,Salzburg
+41703,Attnang-Puchheim,54103.3216646978,Linz
+41704,Atzbach,50182.7277171518,Linz
+41705,Aurach am Hongar,49620.6934076949,Salzburg
+41706,Berg im Attergau,37562.1644543444,Salzburg
+41707,Desselbrunn,50879.6451271981,Linz
+41708,Fornach,37842.6155969331,Salzburg
+41709,Frankenburg am Hausruck,44279.747282249,Salzburg
+41710,Frankenmarkt,35029.4459579356,Salzburg
+41711,Gampern,43790.3651234154,Salzburg
+41712,Innerschwand am Mondsee,27853.0300134193,Salzburg
+41713,Lenzing,46959.3110892307,Salzburg
+41714,Manning,53754.2883631728,Linz
+41715,Mondsee,25096.7231950648,Salzburg
+41716,Neukirchen an der Vöckla,45935.2710434092,Salzburg
+41717,Niederthalheim,46675.2258773424,Linz
+41718,Nußdorf am Attersee,35602.1796887438,Salzburg
+41719,Oberhofen am Irrsee,25194.1788394987,Salzburg
+41720,Oberndorf bei Schwanenstadt,48747.1657835673,Linz
+41721,Oberwang,30052.3954413752,Salzburg
+41722,Ottnang am Hausruck,54728.2814309453,Linz
+41723,Pfaffing,39816.5147141107,Salzburg
+41724,Pilsbach,53457.3819455553,Salzburg
+41725,Pitzenberg,49705.2190676545,Linz
+41726,Pöndorf,33576.733364099,Salzburg
+41727,Puchkirchen am Trattberg,48341.5936687563,Salzburg
+41728,Pühret,52491.8011665676,Linz
+41729,Redleiten,42706.0445878983,Salzburg
+41730,Redlham,50539.8250523166,Linz
+41731,Regau,52853.9356032498,Salzburg
+41732,Rüstorf,46212.9325699831,Linz
+41733,Rutzenham,52183.2253620176,Linz
+41734,St. Georgen im Attergau,35776.6637610461,Salzburg
+41735,St. Lorenz,21447.7567554178,Salzburg
+41736,Schlatt,45347.7152762057,Linz
+41737,Schörfling am Attersee,45202.0839029881,Salzburg
+41738,Schwanenstadt,47676.1818460815,Linz
+41739,Seewalchen am Attersee,42563.1885482412,Salzburg
+41740,Steinbach am Attersee,39681.9754097214,Salzburg
+41741,Straß im Attergau,32371.5060140511,Salzburg
+41742,Tiefgraben,23346.5954859063,Salzburg
+41743,Timelkam,47929.7679045248,Salzburg
+41744,Ungenach,51353.5465768345,Salzburg
+41745,Unterach am Attersee,33235.2846080983,Salzburg
+41746,Vöcklabruck,51234.4211022194,Salzburg
+41747,Vöcklamarkt,39410.8907126931,Salzburg
+41748,Weißenkirchen im Attergau,31776.4242245789,Salzburg
+41749,Weyregg am Attersee,42778.9656202073,Salzburg
+41750,Wolfsegg am Hausruck,50736.061553806,Linz
+41751,Zell am Moos,25921.5666355887,Salzburg
+41752,Zell am Pettenfirst,51455.9716828146,Salzburg
+41801,Aichkirchen,44055.4254435018,Linz
+41802,Bachmanning,42326.9014740903,Linz
+41803,Bad Wimsbach-Neydharting,41012.0965661835,Linz
+41804,Buchkirchen,21526.2647340196,Linz
+41805,Eberstalzell,36770.8628854779,Linz
+41806,Edt bei Lambach,36871.6196533511,Linz
+41807,Fischlham,34361.48702823,Linz
+41808,Gunskirchen,32242.6351692368,Linz
+41809,Holzhausen,17528.3800428788,Linz
+41810,Krenglbach,28041.9213758441,Linz
+41811,Lambach,39568.4146990638,Linz
+41812,Marchtrenk,17750.8400633195,Linz
+41813,Neukirchen bei Lambach,42141.7002092448,Linz
+41814,Offenhausen,37917.5862444434,Linz
+41815,Pennewang,38481.0845107573,Linz
+41816,Pichl bei Wels,32811.3065538412,Linz
+41817,Sattledt,30520.7658403203,Linz
+41818,Schleißheim,23092.56617552,Linz
+41819,Sipbachzell,25401.1614309936,Linz
+41820,Stadl-Paura,41535.9505108472,Linz
+41821,Steinerkirchen an der Traun,35648.346343668,Linz
+41822,Steinhaus,29422.1661387246,Linz
+41823,Thalheim bei Wels,25865.0868731739,Linz
+41824,Weißkirchen an der Traun,20008.6762155242,Linz
+50101,Salzburg,109016.018288326,Linz
+50201,Abtenau,33334.7814181747,Salzburg
+50202,Adnet,12863.2809850054,Salzburg
+50203,Annaberg-Lungötz,44325.2293157226,Salzburg
+50204,Golling an der Salzach,26827.9448873852,Salzburg
+50205,Hallein,13120.4337270517,Salzburg
+50206,Krispl,15573.8097485115,Salzburg
+50207,Kuchl,20799.0462589695,Salzburg
+50208,Oberalm,11196.5196376668,Salzburg
+50209,Puch bei Hallein,8947.86660566317,Salzburg
+50210,Rußbach am Paß Gschütt,38906.6907392336,Salzburg
+50211,Sankt Koloman,21831.7579237052,Salzburg
+50212,Scheffau am Tennengebirge,28452.2871796202,Salzburg
+50213,Bad Vigaun,17104.0223386838,Salzburg
+50301,Anif,6242.0791466905,Salzburg
+50302,Anthering,10765.5489611236,Salzburg
+50303,Bergheim,6265.3237744404,Salzburg
+50304,Berndorf bei Salzburg,21500.2769304093,Salzburg
+50305,Bürmoos,22996.3158019542,Salzburg
+50306,Dorfbeuern,24490.1132335274,Salzburg
+50307,Ebenau,9988.28292059415,Salzburg
+50308,Elixhausen,8388.48391271118,Salzburg
+50309,Elsbethen,6215.660274732,Salzburg
+50310,Eugendorf,10361.7330167032,Salzburg
+50311,Faistenau,16403.8732220311,Salzburg
+50312,Fuschl am See,19468.1158839136,Salzburg
+50313,Göming,18365.1709370544,Salzburg
+50314,Grödig,7354.50413932834,Salzburg
+50315,Großgmain,10494.6045036816,Salzburg
+50316,Hallwang,6396.84398480559,Salzburg
+50317,Henndorf am Wallersee,16037.1642199238,Salzburg
+50318,Hintersee,20547.1834491804,Salzburg
+50319,Hof bei Salzburg,12874.3548742864,Salzburg
+50320,Köstendorf,19657.0053321751,Salzburg
+50321,Koppl,6984.4832894058,Salzburg
+50322,Lamprechtshausen,22701.4268599417,Salzburg
+50323,Mattsee,19308.5141266343,Salzburg
+50324,Neumarkt am Wallersee,20639.0895780616,Salzburg
+50325,Nußdorf am Haunsberg,17747.7231184376,Salzburg
+50326,Oberndorf bei Salzburg,18220.5443314535,Salzburg
+50327,Obertrum am See,14870.6857566509,Salzburg
+50328,Plainfeld,10256.428511031,Salzburg
+50329,Sankt Georgen bei Salzburg,23869.1768622888,Salzburg
+50330,Sankt Gilgen,26835.3400550609,Salzburg
+50331,Schleedorf,19298.5036347761,Salzburg
+50332,Seeham,18635.9974982264,Salzburg
+50335,Straßwalchen,27019.3512845419,Salzburg
+50336,Strobl,32861.414275193,Salzburg
+50337,Thalgau,16294.7150987727,Salzburg
+50338,Wals-Siezenheim,5629.46709733214,Salzburg
+50339,Seekirchen am Wallersee,12660.5132691327,Salzburg
+50401,Altenmarkt im Pongau,59423.3337913593,Salzburg
+50402,Bad Hofgastein,70995.362984397,Salzburg
+50403,Bad Gastein,80161.1451279973,Salzburg
+50404,Bischofshofen,44881.9010202193,Salzburg
+50405,Dorfgastein,61563.8430588027,Salzburg
+50406,Eben im Pongau,49303.8919727315,Salzburg
+50407,Filzmoos,52282.8986272006,Salzburg
+50408,Flachau,62052.7001270236,Salzburg
+50409,Forstau,65006.9712051639,Salzburg
+50410,Goldegg,52676.3302755087,Salzburg
+50411,Großarl,63961.8992866857,Salzburg
+50412,Hüttau,46905.1215011771,Salzburg
+50413,Hüttschlag,74531.611981267,Salzburg
+50414,Kleinarl,65277.3193357233,Salzburg
+50415,Mühlbach am Hochkönig,45486.0837267011,Salzburg
+50416,Pfarrwerfen,37325.865336888,Salzburg
+50417,Radstadt,57144.6537981766,Salzburg
+50418,Sankt Johann im Pongau,51744.8074620927,Salzburg
+50419,Sankt Martin am Tennengebirge,42473.7020102998,Salzburg
+50420,Sankt Veit im Pongau,54121.308376266,Salzburg
+50421,Schwarzach im Pongau,53526.798082462,Salzburg
+50422,Untertauern,67100.5416547163,Salzburg
+50423,Wagrain,55349.7813280568,Salzburg
+50424,Werfen,36042.6943814269,Salzburg
+50425,Werfenweng,38699.1200366605,Salzburg
+50501,Göriach,76961.413314644,Klagenfurt am Wörthersee
+50502,Lessach,75137.2316383327,Klagenfurt am Wörthersee
+50503,Mariapfarr,74318.0222466351,Klagenfurt am Wörthersee
+50504,Mauterndorf,72834.7771216899,Klagenfurt am Wörthersee
+50505,Muhr,82422.1304257606,Klagenfurt am Wörthersee
+50506,Ramingstein,56592.9723493404,Klagenfurt am Wörthersee
+50507,Sankt Andrä im Lungau,68882.5790140194,Klagenfurt am Wörthersee
+50508,Sankt Margarethen im Lungau,66767.2133152534,Klagenfurt am Wörthersee
+50509,Sankt Michael im Lungau,73545.5756596852,Klagenfurt am Wörthersee
+50510,Tamsweg,64730.3645611636,Klagenfurt am Wörthersee
+50511,Thomatal,60139.9450658014,Klagenfurt am Wörthersee
+50512,Tweng,77068.878635886,Salzburg
+50513,Unternberg,66525.9675219871,Klagenfurt am Wörthersee
+50514,Weißpriach,78203.2680153266,Salzburg
+50515,Zederhaus,76581.8820786477,Salzburg
+50601,Bramberg am Wildkogel,72993.9249758883,Innsbruck
+50602,Bruck an der Großglocknerstraße,58712.8989411202,Salzburg
+50603,Dienten am Hochkönig,47616.7913894577,Salzburg
+50604,Fusch an der Großglocknerstraße,70734.0455946101,Salzburg
+50605,Hollersbach im Pinzgau,79094.4651762837,Innsbruck
+50606,Kaprun,70067.2639062734,Salzburg
+50607,Krimml,61429.5446024166,Innsbruck
+50608,Lend,57419.6369078478,Salzburg
+50609,Leogang,47292.5144574016,Salzburg
+50610,Lofer,34390.5640958915,Salzburg
+50611,Maishofen,51329.8754660953,Salzburg
+50612,Maria Alm am Steinernen Meer,43384.9854419136,Salzburg
+50613,Mittersill,75499.8059383072,Salzburg
+50614,Neukirchen am Großvenediger,68692.7928421433,Innsbruck
+50615,Niedernsill,66573.6337744803,Salzburg
+50616,Piesendorf,61616.6300905524,Salzburg
+50617,Rauris,72420.6405704298,Salzburg
+50618,Saalbach-Hinterglemm,58524.840991898,Salzburg
+50619,Saalfelden am Steinernen Meer,42195.1545525404,Salzburg
+50620,Sankt Martin bei Lofer,38136.337081287,Salzburg
+50621,Stuhlfelden,68189.0503414901,Salzburg
+50622,Taxenbach,57502.3044985447,Salzburg
+50623,Unken,32572.105717554,Salzburg
+50624,Uttendorf,73283.5340016248,Salzburg
+50625,Viehhofen,54461.9211816168,Salzburg
+50626,Wald im Pinzgau,59283.918226311,Innsbruck
+50627,Weißbach bei Lofer,37033.16464703,Salzburg
+50628,Zell am See,55282.2622892959,Salzburg
+60101,Graz,99757.1122042374,Klagenfurt am Wörthersee
+60305,Frauental an der Laßnitz,31707.672833358,Graz
+60318,Lannach,17509.3373711469,Graz
+60323,Pölfing-Brunn,40043.7010858973,Graz
+60324,Preding,23409.702597439,Graz
+60326,Sankt Josef (Weststeiermark),20174.170847763,Graz
+60329,Sankt Peter im Sulmtal,37226.5482098795,Graz
+60341,Wettmannstätten,27466.4317084101,Graz
+60344,Deutschlandsberg,33436.9231685491,Graz
+60345,Eibiswald,48164.3407984758,Graz
+60346,Groß Sankt Florian,30089.1113259319,Graz
+60347,Sankt Martin im Sulmtal,37429.6652791934,Graz
+60348,Sankt Stefan ob Stainz,22457.2766949415,Graz
+60349,Bad Schwanberg,40551.0989356191,Graz
+60350,Stainz,24507.7761543817,Graz
+60351,Wies,43397.6193580839,Graz
+60608,Feldkirchen bei Graz,8716.89780938368,Graz
+60611,Gössendorf,8961.65287385479,Graz
+60613,Gratkorn,10089.0543478139,Graz
+60617,Hart bei Graz,6622.14886624992,Graz
+60618,Haselsdorf-Tobelbad,11326.9570168733,Graz
+60619,Hausmannstätten,11153.7902266793,Graz
+60623,Kainbach bei Graz,8100.97356698425,Graz
+60624,Kalsdorf bei Graz,12920.6271540724,Graz
+60626,Kumberg,13175.5796447554,Graz
+60628,Laßnitzhöhe,10017.2187385433,Graz
+60629,Lieboch,13657.0783814702,Graz
+60632,Peggau,15608.8098273181,Graz
+60639,Sankt Bartholomä,13749.6277781997,Graz
+60641,Sankt Oswald bei Plankenwarth,10858.9588198556,Graz
+60642,Sankt Radegund bei Graz,12018.6702986406,Graz
+60645,Semriach,16740.7940498071,Graz
+60646,Stattegg,9225.55088585908,Graz
+60647,Stiwoll,17258.9950493461,Graz
+60648,Thal,6852.09895796564,Graz
+60651,Übelbach,27464.1961185657,Graz
+60653,Vasoldsberg,10986.2344685698,Graz
+60654,Weinitzen,8026.53505863388,Graz
+60655,Werndorf,16711.0959864829,Graz
+60656,Wundschuh,16235.5496076884,Graz
+60659,Deutschfeistritz,18172.5948909513,Graz
+60660,Dobl-Zwaring,17558.350927849,Graz
+60661,Eggersdorf bei Graz,12994.694206291,Graz
+60662,Fernitz-Mellach,14474.8426661803,Graz
+60663,Frohnleiten,25874.151045843,Graz
+60664,Gratwein-Straßengel,15609.5085370177,Graz
+60665,Hitzendorf,10620.3939627167,Graz
+60666,Nestelbach bei Graz,14780.5615255269,Graz
+60667,Raaba-Grambach,7927.64116496018,Graz
+60668,Sankt Marein bei Graz,18499.4164296657,Graz
+60669,Seiersberg-Pirka,8527.91161655161,Graz
+60670,Premstätten,12482.2390255507,Graz
+61001,Allerheiligen bei Wildon,20629.386063911,Graz
+61002,Arnfels,44175.1749196652,Graz
+61007,Empersdorf,14179.3788506333,Graz
+61008,Gabersdorf,33981.2055257474,Graz
+61012,Gralla,29952.9056254558,Graz
+61013,Großklein,37945.1392248383,Graz
+61016,Heimschuh,35173.4749479411,Graz
+61017,Hengsberg,22983.3546111673,Graz
+61019,Kitzeck im Sausal,32956.7979631526,Graz
+61020,Lang,26051.0884737045,Graz
+61021,Lebring-Sankt Margarethen,25983.6884118809,Graz
+61024,Oberhaag,44476.6661884733,Graz
+61027,Ragnitz,27830.7826940809,Graz
+61030,Sankt Andrä-Höch,31495.3022955518,Graz
+61032,Sankt Johann im Saggautal,40454.0445809159,Graz
+61033,Sankt Nikolai im Sausal,27928.8147781727,Graz
+61043,Tillmitsch,29649.47581215,Graz
+61045,Wagna,34934.6389328376,Graz
+61049,Ehrenhausen an der Weinstraße,42088.4313831713,Graz
+61050,Gamlitz,41336.8614964495,Graz
+61051,Gleinstätten,35318.8070663753,Graz
+61052,Heiligenkreuz am Waasen,16916.4195630021,Graz
+61053,Leibnitz,34058.4200137086,Graz
+61054,Leutschach an der Weinstraße,45993.0145584601,Graz
+61055,Sankt Georgen an der Stiefing,24208.8866053193,Graz
+61057,Schwarzautal,28978.6359488953,Graz
+61059,Wildon,21081.3129318943,Graz
+61060,Sankt Veit in der Südsteiermark,38283.6301503573,Graz
+61061,Straß in Steiermark,42882.1671615639,Graz
+61101,Eisenerz,66985.106547413,Graz
+61105,Kalwang,66202.5018385686,Graz
+61106,Kammern im Liesingtal,53185.5444300521,Graz
+61107,Kraubath an der Mur,48072.5583795227,Graz
+61108,Leoben,38465.6015142772,Graz
+61109,Mautern in Steiermark,60075.1115261795,Graz
+61110,Niklasdorf,39806.07292117,Graz
+61111,Proleb,44496.1857600868,Graz
+61112,Radmer,71973.4973754582,Graz
+61113,Sankt Michael in Obersteiermark,39198.5081934911,Graz
+61114,Sankt Peter-Freienstein,46707.3955744377,Graz
+61115,Sankt Stefan ob Leoben,41158.2577079961,Graz
+61116,Traboch,47525.7561764134,Graz
+61118,Vordernberg,58950.171813232,Graz
+61119,Wald am Schoberpaß,70692.4624532896,Graz
+61120,Trofaiach,55176.1876979476,Graz
+61203,Aigen im Ennstal,89195.2926445027,Linz
+61204,Altaussee,57032.8653012016,Salzburg
+61205,Altenmarkt bei Sankt Gallen,68468.5005186158,Linz
+61206,Ardning,75827.7459710088,Linz
+61207,Bad Aussee,59894.1523495871,Salzburg
+61213,Gröbming,69202.8543134455,Salzburg
+61215,Grundlsee,67794.7853055639,Salzburg
+61217,Haus,68182.4750002186,Salzburg
+61222,Lassing,84027.2705546025,Linz
+61236,Ramsau am Dachstein,60896.2893740756,Salzburg
+61243,Selzthal,81233.094523216,Linz
+61247,Trieben,86431.814694677,Graz
+61251,Wildalpen,74605.1363929006,Graz
+61252,Wörschach,78574.6749131767,Linz
+61253,Admont,80389.0966789804,Linz
+61254,Aich,72830.3928210109,Salzburg
+61255,Bad Mitterndorf,71614.3916367179,Salzburg
+61256,Gaishorn am See,79793.5657828061,Graz
+61257,Irdning-Donnersbachtal,85735.3902961999,Klagenfurt am Wörthersee
+61258,Landl,78805.8329723105,Linz
+61259,Liezen,77032.9579448647,Linz
+61260,Michaelerberg-Pruggern,77488.9160190772,Salzburg
+61261,Mitterberg-Sankt Martin,76973.1387344486,Salzburg
+61262,Öblarn,84017.5428961063,Salzburg
+61263,Rottenmann,90631.0175689943,Linz
+61264,Sankt Gallen,70710.5630353676,Linz
+61265,Schladming,70640.5180931002,Salzburg
+61266,Sölk,80440.1028187303,Klagenfurt am Wörthersee
+61267,Stainach-Pürgg,81568.8391547249,Salzburg
+61410,Mühlen,46474.3261648621,Klagenfurt am Wörthersee
+61413,Niederwölz,57523.1180155482,Klagenfurt am Wörthersee
+61425,St. Peter am Kammersberg,63184.6860601136,Klagenfurt am Wörthersee
+61428,Schöder,67298.105965671,Klagenfurt am Wörthersee
+61437,Krakau,68858.7198731079,Klagenfurt am Wörthersee
+61438,Murau,51815.4397269233,Klagenfurt am Wörthersee
+61439,Neumarkt in der Steiermark,49092.2275090593,Klagenfurt am Wörthersee
+61440,Oberwölz,67077.8644318883,Klagenfurt am Wörthersee
+61441,Ranten,59968.3029498779,Klagenfurt am Wörthersee
+61442,Sankt Georgen am Kreischberg,53429.8115303257,Klagenfurt am Wörthersee
+61443,Sankt Lambrecht,48502.3446737227,Klagenfurt am Wörthersee
+61444,Scheifling,57513.5106278555,Klagenfurt am Wörthersee
+61445,Stadl-Predlitz,50382.1788536533,Klagenfurt am Wörthersee
+61446,Teufenbach-Katsch,55491.0225000098,Klagenfurt am Wörthersee
+61611,Krottendorf-Gaisfeld,20322.1270797271,Graz
+61612,Ligist,22267.0176623512,Graz
+61615,Mooskirchen,16996.8698776797,Graz
+61618,Rosental an der Kainach,25284.6434714468,Graz
+61621,Sankt Martin am Wöllmißberg,25660.6523927179,Graz
+61624,Stallhofen,16371.3935591793,Graz
+61625,Voitsberg,21146.9429933951,Graz
+61626,Bärnbach,24973.9939893167,Graz
+61627,Edelschrott,30858.8512715436,Graz
+61628,Geistthal-Södingberg,22532.5600577092,Graz
+61629,Hirschegg-Pack,37941.6572369089,Graz
+61630,Kainach bei Voitsberg,29477.484541763,Graz
+61631,Köflach,29264.6617541935,Graz
+61632,Maria Lankowitz,34481.352887777,Graz
+61633,Söding-Sankt Johann,15595.9787363711,Graz
+61701,Albersdorf-Prebuch,22317.924061452,Graz
+61708,Fischbach,43694.2033521653,Graz
+61710,Floing,30692.3492030431,Graz
+61711,Gasen,35888.7627915863,Graz
+61716,Markt Hartmannsdorf,30113.0987436096,Graz
+61719,Hofstätten an der Raab,23768.2653630753,Graz
+61727,Ludersdorf-Wilfersdorf,17776.01876696,Graz
+61728,Miesenbach bei Birkfeld,41123.6298097478,Graz
+61729,Mitterdorf an der Raab,17374.1661067051,Graz
+61730,Mortantsch,19253.3466307878,Graz
+61731,Naas,22487.7741504059,Graz
+61740,Puch bei Weiz,27083.8164888552,Graz
+61741,Ratten,52936.9339086171,Graz
+61743,Rettenegg,59228.3145747413,Graz
+61744,St. Kathrein am Hauenstein,49780.8716991994,Graz
+61745,Sankt Kathrein am Offenegg,29062.2477319243,Graz
+61746,St. Margarethen an der Raab,22843.0116914882,Graz
+61748,Sinabelkirchen,28816.1780611918,Graz
+61750,Strallegg,43498.6546177538,Graz
+61751,Thannhausen,25133.2236456884,Graz
+61756,Anger,30089.3675020709,Graz
+61757,Birkfeld,35845.4406167671,Graz
+61758,Fladnitz an der Teichalm,26463.3981353344,Graz
+61759,Gersdorf an der Feistritz,31944.5571487877,Graz
+61760,Gleisdorf,20313.7172592415,Graz
+61761,Gutenberg-Stenzengreith,16821.639895924,Graz
+61762,Ilztal,25877.4081486864,Graz
+61763,Passail,22802.5978353934,Graz
+61764,Pischelsdorf am Kulm,29072.6331969449,Graz
+61765,Sankt Ruprecht an der Raab,20746.6577023902,Graz
+61766,Weiz,21762.3427398231,Graz
+62007,Fohnsdorf,59706.9603012521,Graz
+62008,Gaal,64852.3139147133,Graz
+62010,Hohentauern,79589.6776359026,Graz
+62014,Kobenz,49947.9579894093,Graz
+62021,Pusterwald,75391.2855937193,Klagenfurt am Wörthersee
+62026,Sankt Georgen ob Judenburg,64241.698773138,Klagenfurt am Wörthersee
+62032,Sankt Peter ob Judenburg,61569.2229815353,Klagenfurt am Wörthersee
+62034,Seckau,53896.8348797096,Graz
+62036,Unzmarkt-Frauenburg,62834.4990372715,Klagenfurt am Wörthersee
+62038,Zeltweg,54310.2574769203,Graz
+62039,Lobmingtal,44206.7168848084,Graz
+62040,Judenburg,61170.5134858562,Klagenfurt am Wörthersee
+62041,Knittelfeld,47972.1867735458,Graz
+62042,Obdach,55142.5360875271,Klagenfurt am Wörthersee
+62043,Pöls-Oberkurzheim,67955.7444264458,Graz
+62044,Pölstal,78354.7425317874,Klagenfurt am Wörthersee
+62045,Sankt Marein-Feistritz,51618.8399950308,Graz
+62046,Sankt Margarethen bei Knittelfeld,40996.1052480503,Graz
+62047,Spielberg,53043.4876581232,Graz
+62048,Weißkirchen in Steiermark,49600.7848368973,Graz
+62105,Breitenau am Hochlantsch,34979.8423427604,Graz
+62115,Krieglach,52558.9258824781,Graz
+62116,Langenwang,56429.2796652023,Graz
+62125,Pernegg an der Mur,32198.9835110439,Graz
+62128,Sankt Lorenzen im Mürztal,48498.732759225,Graz
+62131,Spital am Semmering,64432.6920186579,Graz
+62132,Stanz im Mürztal,42348.5278201648,Graz
+62135,Turnau,58552.5450457037,Graz
+62138,Aflenz,56530.4678729944,Graz
+62139,Bruck an der Mur,38758.4188267876,Graz
+62140,Kapfenberg,44933.3486322587,Graz
+62141,Kindberg,45520.2006185789,Graz
+62142,Mariazell,72532.4657498297,Graz
+62143,Mürzzuschlag,60983.3464934503,Graz
+62144,Neuberg an der Mürz,68703.8487660958,Graz
+62145,Sankt Barbara im Mürztal,57122.6613039213,Graz
+62146,Sankt Marein im Mürztal,40530.0968633495,Graz
+62147,Thörl,57391.4849875796,Graz
+62148,Tragöß-Sankt Katharein,57135.1479731555,Graz
+62202,Bad Blumau,45449.1399578622,Graz
+62205,Buch-St. Magdalena,46198.7677834064,Graz
+62206,Burgau,49619.1143371184,Graz
+62209,Ebersdorf,41515.8767451969,Graz
+62211,Friedberg,60467.4329365981,Graz
+62214,Greinbach,46816.3507469377,Graz
+62216,Großsteinbach,36285.5757963219,Graz
+62219,Hartberg,47123.4071926617,Graz
+62220,Hartberg Umgebung,43231.6282940436,Graz
+62226,Lafnitz,53332.1881508931,Graz
+62232,Ottendorf an der Rittschein,35202.00270058,Graz
+62233,Pinggau,63228.4197438603,Graz
+62235,Pöllauberg,42136.9669357608,Graz
+62242,Sankt Jakob im Walde,51285.6132569232,Graz
+62244,Sankt Johann in der Haide,50608.4341983068,Graz
+62245,Sankt Lorenzen am Wechsel,58009.7191427236,Graz
+62247,Schäffern,67112.5439778386,Graz
+62252,Söchau,43239.8395393652,Graz
+62256,Stubenberg,33207.7879104676,Graz
+62262,Wenigzell,47026.0907549689,Graz
+62264,Bad Waltersdorf,44356.782186118,Graz
+62265,Dechantskirchen,58239.9314690742,Graz
+62266,Feistritztal,33055.037790695,Graz
+62267,Fürstenfeld,47417.3270642002,Graz
+62268,Grafendorf bei Hartberg,49604.5542745455,Graz
+62269,Großwilfersdorf,40753.6162138391,Graz
+62270,Hartl,37433.3546286781,Graz
+62271,Ilz,35576.5209020925,Graz
+62272,Kaindorf,39583.6261009735,Graz
+62273,Bad Loipersdorf,51025.8299890778,Graz
+62274,Neudau,49904.65968056,Graz
+62275,Pöllau,38095.9934431749,Graz
+62276,Rohr bei Hartberg,50424.4720845143,Graz
+62277,Rohrbach an der Lafnitz,53155.4797590537,Graz
+62278,Vorau,49084.4591293664,Graz
+62279,Waldbach-Mönichwald,55403.608944597,Graz
+62311,Edelsbach bei Feldbach,30886.5939051005,Graz
+62314,Eichkögl,27856.6272136522,Graz
+62326,Halbenrain,53554.4893401817,Graz
+62330,Jagerberg,33124.6555257731,Graz
+62332,Kapfenstein,46276.2345234517,Graz
+62335,Klöch,53231.8215421483,Graz
+62343,Mettersdorf am Saßbach,35577.8151674217,Graz
+62368,Tieschen,50112.3726219325,Graz
+62372,Unterlamm,48773.1251337088,Graz
+62375,Bad Gleichenberg,41994.0120847097,Graz
+62376,Bad Radkersburg,60138.9759010079,Graz
+62377,Deutsch Goritz,46349.2966320122,Graz
+62378,Fehring,45591.5016116588,Graz
+62379,Feldbach,36724.7755130573,Graz
+62380,Gnas,35861.1069613381,Graz
+62381,Kirchbach-Zerlach,22608.50193819,Graz
+62382,Kirchberg an der Raab,25828.2389267241,Graz
+62383,Mureck,46122.6384217233,Graz
+62384,Paldau,30865.3994852588,Graz
+62385,Pirching am Traubenberg,19175.5964414518,Graz
+62386,Riegersburg,38069.589870389,Graz
+62387,Sankt Anna am Aigen,47986.8941471256,Graz
+62388,Sankt Peter am Ottersbach,39925.5248404367,Graz
+62389,Sankt Stefan im Rosental,27509.1440193455,Graz
+62390,Straden,45155.6655934158,Graz
+70101,Innsbruck,137530.898012011,Salzburg
+70201,Arzl im Pitztal,48015.5966567739,Innsbruck
+70202,Haiming,37769.7745856706,Innsbruck
+70203,Imst,53911.5336774684,Innsbruck
+70204,Imsterberg,52559.0858657306,Innsbruck
+70205,Jerzens,49440.8855767872,Innsbruck
+70206,Karres,45142.69977555,Innsbruck
+70207,Karrösten,46224.3843660881,Innsbruck
+70208,Längenfeld,39949.7905356452,Innsbruck
+70209,Mieming,31238.4126226636,Innsbruck
+70210,Mils bei Imst,53685.7099297447,Innsbruck
+70211,Mötz,32938.0698125994,Innsbruck
+70212,Nassereith,42959.8611584678,Innsbruck
+70213,Obsteig,35912.1001527877,Innsbruck
+70214,Oetz,37077.1565704605,Innsbruck
+70215,Rietz,25565.5373907205,Innsbruck
+70216,Roppen,43819.7331856165,Innsbruck
+70217,St. Leonhard im Pitztal,52038.2293920071,Innsbruck
+70218,Sautens,41035.6501813525,Innsbruck
+70219,Silz,31304.2789644743,Innsbruck
+70220,Sölden,55763.6860866271,Innsbruck
+70221,Stams,27588.3197550719,Innsbruck
+70222,Tarrenz,46700.6457390952,Innsbruck
+70223,Umhausen,36897.8502427374,Innsbruck
+70224,Wenns,52436.117611026,Innsbruck
+70301,Absam,10218.3741525602,Innsbruck
+70302,Aldrans,8615.19115479752,Innsbruck
+70303,Ampass,8315.8710003412,Innsbruck
+70304,Axams,11454.2664766694,Innsbruck
+70305,Baumkirchen,13704.3051360586,Innsbruck
+70306,Birgitz,9336.28613653452,Innsbruck
+70307,Ellbögen,13409.5252455971,Innsbruck
+70308,Flaurling,20613.5545241434,Innsbruck
+70309,Fritzens,16336.6337340541,Innsbruck
+70310,Fulpmes,16867.1302281261,Innsbruck
+70311,Gnadenwald,15827.539813725,Innsbruck
+70312,Götzens,8453.81617609765,Innsbruck
+70313,Gries am Brenner,30655.7349276716,Innsbruck
+70314,Gries im Sellrain,20886.5481889855,Innsbruck
+70315,Grinzens,15176.9656874415,Innsbruck
+70317,Gschnitz,30618.8541062058,Innsbruck
+70318,Hatting,17025.7516713181,Innsbruck
+70319,Inzing,16547.5473406617,Innsbruck
+70320,Kematen in Tirol,8203.73389361148,Innsbruck
+70322,Kolsass,18531.6215983517,Innsbruck
+70323,Kolsassberg,22137.4910128748,Innsbruck
+70325,Lans,8002.51657053828,Innsbruck
+70326,Leutasch,20201.3063462467,Innsbruck
+70328,Mieders,15152.5253615021,Innsbruck
+70329,Mils,11885.9094943246,Innsbruck
+70331,Mutters,9131.1556253892,Innsbruck
+70332,Natters,6236.80304313931,Innsbruck
+70333,Navis,21217.1035359568,Innsbruck
+70334,Neustift im Stubaital,28591.2888666467,Innsbruck
+70335,Oberhofen im Inntal,21576.1797464231,Innsbruck
+70336,Obernberg am Brenner,31784.9404439726,Innsbruck
+70337,Oberperfuss,14162.9155018962,Innsbruck
+70338,Patsch,9889.37359733044,Innsbruck
+70339,Pettnau,16325.3892394439,Innsbruck
+70340,Pfaffenhofen,23076.6305974953,Innsbruck
+70342,Polling in Tirol,18020.5937152878,Innsbruck
+70343,Ranggen,13389.8638002472,Innsbruck
+70344,Reith bei Seefeld,12707.1957118135,Innsbruck
+70345,Rinn,10810.8962312713,Innsbruck
+70346,Rum,4143.49967488194,Innsbruck
+70347,St. Sigmund im Sellrain,26257.6304521262,Innsbruck
+70348,Scharnitz,11385.7851288434,Innsbruck
+70349,Schmirn,27689.2149040872,Innsbruck
+70350,Schönberg im Stubaital,11828.2657637686,Innsbruck
+70351,Seefeld in Tirol,13851.9459777731,Innsbruck
+70352,Sellrain,18944.8094461282,Innsbruck
+70353,Sistrans,9053.14653255503,Innsbruck
+70354,Hall in Tirol,9136.0648129426,Innsbruck
+70355,Steinach am Brenner,23746.5041726533,Innsbruck
+70356,Telfes im Stubai,14020.3466827183,Innsbruck
+70357,Telfs,21812.1965557311,Innsbruck
+70358,Thaur,6352.39618594026,Innsbruck
+70359,Trins,24409.7669358011,Innsbruck
+70360,Tulfes,13639.507584623,Innsbruck
+70361,Unterperfuss,10049.332759431,Innsbruck
+70362,Vals,31680.6656294956,Innsbruck
+70364,Völs,6037.00128287876,Innsbruck
+70365,Volders,15473.6812865365,Innsbruck
+70366,Wattenberg,20613.8214452753,Innsbruck
+70367,Wattens,16555.5185248063,Innsbruck
+70368,Wildermieming,28012.538545359,Innsbruck
+70369,Zirl,8240.96456020907,Innsbruck
+70370,Matrei am Brenner,17336.2317239798,Innsbruck
+70401,Aurach bei Kitzbühel,61008.0539591827,Salzburg
+70402,Brixen im Thale,68226.1738729698,Innsbruck
+70403,Fieberbrunn,53389.6409517833,Salzburg
+70404,Going am Wilden Kaiser,60735.1519409541,Salzburg
+70405,Hochfilzen,47040.2539006378,Salzburg
+70406,Hopfgarten im Brixental,56115.4291078904,Innsbruck
+70407,Itter,62032.9501598763,Innsbruck
+70408,Jochberg,68612.8690814548,Salzburg
+70409,Kirchberg in Tirol,70839.8507610771,Innsbruck
+70410,Kirchdorf in Tirol,51782.6289921229,Salzburg
+70411,Kitzbühel,61423.9262515779,Salzburg
+70412,Kössen,50951.735956756,Salzburg
+70413,Oberndorf in Tirol,59806.4419595895,Salzburg
+70414,Reith bei Kitzbühel,63538.3412456689,Salzburg
+70415,St. Jakob in Haus,49612.7045306943,Salzburg
+70416,St. Johann in Tirol,55244.3836041172,Salzburg
+70417,St. Ulrich am Pillersee,45274.0788038119,Salzburg
+70418,Schwendt,53248.2147021305,Salzburg
+70419,Waidring,42348.9597907592,Salzburg
+70420,Westendorf,63769.2167480919,Innsbruck
+70501,Alpbach,45148.7443529828,Innsbruck
+70502,Angath,57099.2810523192,Innsbruck
+70503,Bad Häring,60983.8183668265,Innsbruck
+70504,Brandenberg,46769.2123490096,Innsbruck
+70505,Breitenbach am Inn,50360.2172936718,Innsbruck
+70506,Brixlegg,43257.7272449192,Innsbruck
+70508,Ebbs,63638.2064820232,Salzburg
+70509,Ellmau,64879.7556579377,Salzburg
+70510,Erl,63443.8519999387,Salzburg
+70511,Kirchbichl,59772.8789672259,Innsbruck
+70512,Kramsach,41523.0565282215,Innsbruck
+70513,Kufstein,67419.8360507862,Salzburg
+70514,Kundl,50222.1722156319,Innsbruck
+70515,Langkampfen,61191.4295229328,Innsbruck
+70516,Mariastein,57406.0404868296,Innsbruck
+70517,Münster,36901.0870481431,Innsbruck
+70518,Niederndorf,64674.2484450139,Salzburg
+70519,Niederndorferberg,62554.0635235986,Salzburg
+70520,Radfeld,45308.9198994585,Innsbruck
+70521,Rattenberg,42131.8858589642,Innsbruck
+70522,Reith im Alpbachtal,40542.166932632,Innsbruck
+70523,Rettenschöss,58829.2411397055,Salzburg
+70524,Scheffau am Wilden Kaiser,66865.0336128464,Salzburg
+70525,Schwoich,64354.4929420185,Innsbruck
+70526,Söll,66541.6741903188,Innsbruck
+70527,Thiersee,58273.6015918504,Innsbruck
+70528,Angerberg,55247.6100886164,Innsbruck
+70529,Walchsee,58111.5037968923,Salzburg
+70530,Wildschönau,51344.5629220836,Innsbruck
+70531,Wörgl,56839.8822431102,Innsbruck
+70601,Faggen,57679.0767722404,Innsbruck
+70602,Fendels,58832.7662799185,Innsbruck
+70603,Fiss,64638.3581896518,Innsbruck
+70604,Fließ,59224.2439861525,Innsbruck
+70605,Flirsch,75058.9053898249,Innsbruck
+70606,Galtür,99891.516548149,Innsbruck
+70607,Grins,68126.6217310607,Innsbruck
+70608,Ischgl,89960.140497295,Innsbruck
+70609,Kappl,79173.6563116498,Innsbruck
+70610,Kaunerberg,54026.6480237549,Innsbruck
+70611,Kaunertal,61666.639218201,Innsbruck
+70612,Kauns,56112.9497513058,Innsbruck
+70613,Ladis,60520.5575955804,Innsbruck
+70614,Landeck,64448.9521809259,Innsbruck
+70615,Nauders,77877.837632895,Innsbruck
+70616,Pettneu am Arlberg,80179.0014590009,Innsbruck
+70617,Pfunds,71522.3374890623,Innsbruck
+70618,Pians,68238.1396414981,Innsbruck
+70619,Prutz,58433.3346601669,Innsbruck
+70620,Ried im Oberinntal,61565.3999438633,Innsbruck
+70621,St. Anton am Arlberg,90736.8491760765,Innsbruck
+70622,Schönwies,56676.9877949465,Innsbruck
+70623,See,75833.1141253195,Innsbruck
+70624,Serfaus,69304.6859052771,Innsbruck
+70625,Spiss,79091.2707958372,Innsbruck
+70626,Stanz bei Landeck,64466.3964147085,Innsbruck
+70627,Strengen,72280.7434535131,Innsbruck
+70628,Tobadill,68262.24416947,Innsbruck
+70629,Tösens,64994.7823227228,Innsbruck
+70630,Zams,64123.4481554996,Innsbruck
+70701,Abfaltersbach,103821.809418303,Innsbruck
+70702,Ainet,103367.911987699,Salzburg
+70703,Amlach,115034.261270248,Salzburg
+70704,Anras,105026.0462795,Innsbruck
+70705,Assling,109101.725244099,Innsbruck
+70706,Außervillgraten,95928.4605198783,Innsbruck
+70707,Dölsach,106616.97615089,Salzburg
+70708,Gaimberg,106908.22445208,Salzburg
+70709,Hopfgarten in Defereggen,96004.1251229112,Innsbruck
+70710,Innervillgraten,89645.236920212,Innsbruck
+70711,Iselsberg-Stronach,105480.394396532,Salzburg
+70712,Kals am Großglockner,91582.3918703462,Salzburg
+70713,Kartitsch,107171.27602466,Innsbruck
+70714,Lavant,112426.062541453,Klagenfurt am Wörthersee
+70715,Leisach,116140.703961262,Salzburg
+70716,Lienz,110038.463356443,Salzburg
+70717,Matrei in Osttirol,89047.0440747019,Innsbruck
+70718,Nikolsdorf,107176.304065157,Klagenfurt am Wörthersee
+70719,Nußdorf-Debant,101295.776329382,Salzburg
+70720,Oberlienz,108433.046767067,Salzburg
+70721,Obertilliach,113720.677778024,Innsbruck
+70723,Prägraten am Großvenediger,75934.0134787634,Innsbruck
+70724,St. Jakob in Defereggen,76133.7025863797,Innsbruck
+70725,St. Johann im Walde,103200.997489979,Innsbruck
+70726,St. Veit in Defereggen,88329.5362110167,Innsbruck
+70727,Schlaiten,104191.232735387,Innsbruck
+70728,Sillian,98381.7074369987,Innsbruck
+70729,Strassen,103036.22628043,Innsbruck
+70731,Thurn,105143.498202729,Salzburg
+70732,Tristach,113344.622777662,Salzburg
+70733,Untertilliach,118348.75875627,Innsbruck
+70734,Virgen,86434.2151701514,Innsbruck
+70735,Heinfels,100802.089866322,Innsbruck
+70801,Bach,75120.1645648645,Innsbruck
+70802,Berwang,49431.7169886228,Innsbruck
+70803,Biberwier,39154.6773001622,Innsbruck
+70804,Bichlbach,45482.6958213697,Innsbruck
+70805,Breitenwang,50523.4933851364,Innsbruck
+70806,Ehenbichl,55509.3748339756,Innsbruck
+70807,Ehrwald,35448.1392100251,Innsbruck
+70808,Elbigenalp,73285.5107914977,Innsbruck
+70809,Elmen,63915.7525921,Innsbruck
+70810,Forchach,60304.1430847501,Innsbruck
+70811,Grän,66355.6687566974,Innsbruck
+70812,Gramais,64574.878246592,Innsbruck
+70813,Häselgehr,67678.8483563085,Innsbruck
+70814,Heiterwang,49726.3291842914,Innsbruck
+70815,Hinterhornbach,72781.7060220755,Innsbruck
+70816,Höfen,57484.5916447611,Innsbruck
+70817,Holzgau,79806.3766609601,Innsbruck
+70818,Jungholz,76708.3406404527,Innsbruck
+70819,Kaisers,80822.9650284005,Innsbruck
+70820,Lechaschau,56722.1532403526,Innsbruck
+70821,Lermoos,41086.2109674846,Innsbruck
+70822,Musau,60399.8167944765,Innsbruck
+70823,Namlos,54731.2934387199,Innsbruck
+70824,Nesselwängle,62879.6061550579,Innsbruck
+70825,Pfafflar,58991.3891002838,Innsbruck
+70826,Pflach,55369.7691568419,Innsbruck
+70827,Pinswang,58851.8875020765,Innsbruck
+70828,Reutte,51050.549086071,Innsbruck
+70829,Schattwald,74266.1616769846,Innsbruck
+70830,Stanzach,59634.3325826961,Innsbruck
+70831,Steeg,85837.8466210735,Innsbruck
+70832,Tannheim,69266.1680020357,Innsbruck
+70833,Vils,64225.4473391329,Innsbruck
+70834,Vorderhornbach,66273.6761699103,Innsbruck
+70835,Wängle,58342.1329776744,Innsbruck
+70836,Weißenbach am Lech,65387.1387541581,Innsbruck
+70837,Zöblen,72779.5491151102,Innsbruck
+70901,Achenkirch,36124.8706069538,Innsbruck
+70902,Aschau im Zillertal,38216.8181642656,Innsbruck
+70903,Brandberg,51559.7870279029,Innsbruck
+70904,Bruck am Ziller,37914.6994296521,Innsbruck
+70905,Buch in Tirol,31681.8456999351,Innsbruck
+70907,Eben am Achensee,26587.1501857822,Innsbruck
+70908,Finkenberg,38164.6918583524,Innsbruck
+70909,Fügen,36304.9958776935,Innsbruck
+70910,Fügenberg,31367.7715356329,Innsbruck
+70911,Gallzein,30242.3701805707,Innsbruck
+70912,Gerlos,50490.829217613,Innsbruck
+70913,Gerlosberg,43786.9799995317,Innsbruck
+70914,Hainzenberg,42741.3114023403,Innsbruck
+70915,Hart im Zillertal,40862.6140465564,Innsbruck
+70916,Hippach,33576.081239743,Innsbruck
+70917,Jenbach,29872.4192355754,Innsbruck
+70918,Kaltenbach,35349.8998737331,Innsbruck
+70920,Mayrhofen,43279.5275710301,Innsbruck
+70921,Pill,27017.2003171046,Innsbruck
+70922,Ramsau im Zillertal,40290.7573445294,Innsbruck
+70923,Ried im Zillertal,34252.3954165672,Innsbruck
+70924,Rohrberg,41432.2031617254,Innsbruck
+70925,Schlitters,34952.708075079,Innsbruck
+70926,Schwaz,27203.1870737195,Innsbruck
+70927,Schwendau,35168.5604364175,Innsbruck
+70928,Stans,27022.1547593272,Innsbruck
+70929,Steinberg am Rofan,38979.4971632624,Innsbruck
+70930,Strass im Zillertal,34917.0030424533,Innsbruck
+70931,Stumm,38197.8517802393,Innsbruck
+70932,Stummerberg,43218.497424897,Innsbruck
+70933,Terfens,19633.9704343395,Innsbruck
+70934,Tux,29488.2188233716,Innsbruck
+70935,Uderns,35645.2120630974,Innsbruck
+70936,Vomp,18116.0149056886,Innsbruck
+70937,Weer,20879.1751864717,Innsbruck
+70938,Weerberg,25213.1787237379,Innsbruck
+70939,Wiesing,33871.7802275827,Innsbruck
+70940,Zell am Ziller,38679.2589625266,Innsbruck
+70941,Zellberg,36348.0639464756,Innsbruck
+80101,Bartholomäberg,112787.694843911,Innsbruck
+80102,Blons,116305.579294525,Innsbruck
+80103,Bludenz,115567.855415231,Innsbruck
+80104,Bludesch,125053.010086389,Innsbruck
+80105,Brand,127582.845186452,Innsbruck
+80106,Bürs,121435.668860574,Innsbruck
+80107,Bürserberg,123897.130545566,Innsbruck
+80108,Dalaas,102932.353504796,Innsbruck
+80109,Fontanella,111343.55764328,Innsbruck
+80110,Gaschurn,106522.790224821,Innsbruck
+80111,Innerbraz,110293.606158163,Innsbruck
+80112,Klösterle,96744.2707195794,Innsbruck
+80113,Lech,94137.5345615846,Innsbruck
+80114,Lorüns,117889.855823155,Innsbruck
+80115,Ludesch,121025.935066965,Innsbruck
+80116,Nenzing,130393.597078004,Innsbruck
+80117,Nüziders,118734.411927925,Innsbruck
+80118,Raggal,112662.835980009,Innsbruck
+80119,St. Anton im Montafon,115808.524615287,Innsbruck
+80120,St. Gallenkirch,113283.699734838,Innsbruck
+80121,St. Gerold,119114.893341078,Innsbruck
+80122,Schruns,111366.014713807,Innsbruck
+80123,Silbertal,103528.131679583,Innsbruck
+80124,Sonntag,106619.716016007,Innsbruck
+80125,Stallehr,116474.886493833,Innsbruck
+80126,Thüringen,122988.674370539,Innsbruck
+80127,Thüringerberg,121585.540233279,Innsbruck
+80128,Tschagguns,117519.104233841,Innsbruck
+80129,Vandans,121936.978262395,Innsbruck
+80201,Alberschwende,117515.12641337,Innsbruck
+80202,Andelsbuch,112409.299703704,Innsbruck
+80203,Au,107032.767298906,Innsbruck
+80204,Bezau,105229.060552953,Innsbruck
+80205,Bildstein,121517.672565878,Innsbruck
+80206,Bizau,107273.05184037,Innsbruck
+80207,Bregenz,126460.409940218,Innsbruck
+80208,Buch,120183.363929425,Innsbruck
+80209,Damüls,113887.37740225,Innsbruck
+80210,Doren,115878.812647603,Innsbruck
+80211,Egg,106093.978362802,Innsbruck
+80212,Eichenberg,122704.389922315,Innsbruck
+80213,Fußach,132618.203894232,Innsbruck
+80214,Gaißau,137387.096087318,Innsbruck
+80215,Hard,130477.473474236,Innsbruck
+80216,Hittisau,105189.768014586,Innsbruck
+80217,Höchst,134651.181917441,Innsbruck
+80218,Hörbranz,125960.441104887,Innsbruck
+80219,Hohenweiler,124799.513271013,Innsbruck
+80220,Kennelbach,123750.647424547,Innsbruck
+80221,Krumbach,112644.627885846,Innsbruck
+80222,Langen bei Bregenz,119421.031908065,Innsbruck
+80223,Langenegg,113918.474066779,Innsbruck
+80224,Lauterach,127481.522150304,Innsbruck
+80225,Lingenau,111927.326835236,Innsbruck
+80226,Lochau,124423.284606982,Innsbruck
+80227,Mellau,114633.604505534,Innsbruck
+80228,Mittelberg,92886.7593783006,Innsbruck
+80229,Möggers,122706.217605061,Innsbruck
+80230,Reuthe,114363.422263158,Innsbruck
+80231,Riefensberg,109567.483055538,Innsbruck
+80232,Schnepfau,108325.603128734,Innsbruck
+80233,Schoppernau,101279.282971029,Innsbruck
+80234,Schröcken,97787.3675171572,Innsbruck
+80235,Schwarzach,123493.916521029,Innsbruck
+80236,Schwarzenberg,117206.116026531,Innsbruck
+80237,Sibratsgfäll,100827.679939465,Innsbruck
+80238,Sulzberg,113797.810506394,Innsbruck
+80239,Warth,92263.2021325039,Innsbruck
+80240,Wolfurt,124707.643165325,Innsbruck
+80301,Dornbirn,122020.372681721,Innsbruck
+80302,Hohenems,126889.276558269,Innsbruck
+80303,Lustenau,129817.209841179,Innsbruck
+80401,Altach,131311.997149931,Innsbruck
+80402,Düns,126558.900686942,Innsbruck
+80403,Dünserberg,124982.225598105,Innsbruck
+80404,Feldkirch,136246.901568299,Innsbruck
+80405,Frastanz,134399.955640346,Innsbruck
+80406,Fraxern,127271.833341127,Innsbruck
+80407,Göfis,132444.072466715,Innsbruck
+80408,Götzis,130032.804465417,Innsbruck
+80409,Klaus,131328.459295038,Innsbruck
+80410,Koblach,133829.981013262,Innsbruck
+80411,Laterns,122061.576430913,Innsbruck
+80412,Mäder,133450.258499642,Innsbruck
+80413,Meiningen,136248.27365903,Innsbruck
+80414,Rankweil,132542.232511003,Innsbruck
+80415,Röns,127724.432495826,Innsbruck
+80416,Röthis,130577.77527166,Innsbruck
+80417,Satteins,129291.308555339,Innsbruck
+80418,Schlins,127792.048451128,Innsbruck
+80419,Schnifis,124690.460619658,Innsbruck
+80420,Sulz,131565.57987648,Innsbruck
+80421,Übersaxen,128069.667103457,Innsbruck
+80422,Viktorsberg,125514.252030267,Innsbruck
+80423,Weiler,130579.927544296,Innsbruck
+80424,Zwischenwasser,126364.981140659,Innsbruck
+90001,Wien,144348.361818887,Graz

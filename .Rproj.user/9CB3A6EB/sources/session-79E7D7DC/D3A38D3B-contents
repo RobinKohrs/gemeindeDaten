@@ -1,0 +1,36 @@
+library(tidyverse)
+library(here)
+library(glue)
+library(sf)
+library(readxl)
+library(jsonlite)
+
+# path --------------------------------------------------------------------
+path_bev = here("data_raw/population/bevoelkerung_zu_jahresbeginn_2002-2022_nach_gemeinden_.xlsx")
+
+# data --------------------------------------------------------------------
+data = read_xlsx(path_bev, skip = 2)
+
+
+# ids ---------------------------------------------------------------------
+source(here("analysis/selected_gemeinden.R"))
+
+
+# clean -------------------------------------------------------------------
+data %>%
+  rename(gkz = 1,
+         name = 2) %>%
+  filter(nchar(gkz) == 5|
+           gkz == "ÖSTERREICH") %>% 
+  pivot_longer(cols = matches("\\d{4}"),
+               names_to = "year",
+               values_to = "bev") %>% 
+  mutate(year = substr(year, 1, 4)) %>%
+  mutate(name = ifelse(gkz == "ÖSTERREICH", "Österreich", name)) -> data_clean
+
+write.csv(data_clean, here("../../../2022-04-gemeinden-portraete/public/data/bev.csv"))
+
+
+
+
+

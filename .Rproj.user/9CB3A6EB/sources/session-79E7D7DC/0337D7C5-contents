@@ -1,0 +1,154 @@
+library(sf)
+library(tidyverse)
+library(glue)
+library(here)
+library(readxl)
+
+# get the selected_gemeinden
+source(here("analysis/selected_gemeinden.R"))
+
+# read the data -----------------------------------------------------------
+gemeinden = read_sf(here("data_raw/gemeinden_geo/STATISTIK_AUSTRIA_GEM_20220101.shp"))
+
+# all_gemeinden = gemeinden_geo
+# selected_gemeinden = all_gemeinden %>% 
+#   filter(
+#     id %in% gemeinden_ids
+#   )
+
+
+urban_rural = read_xlsx(here("data_raw/zuordnung_grad_der_urbanisierung_zu_gemeinden.xlsx"), sheet = 2)
+
+
+# preprocess --------------------------------------------------------------
+
+# maje the id col numneric
+gemeinden$id = as.numeric(gemeinden$id)
+gemeinden$id = as.numeric(gemeinden$id)
+
+
+# dissolve only vienna ----------------------------------------------------
+gemeinden %>% 
+  filter(str_detect(id, "^9.*")) %>%
+  st_union() %>% 
+  st_as_sf() %>% 
+  mutate(
+    id = 90001,
+    name = "Wien"
+  ) %>% st_cast("MULTIPOLYGON") %>% 
+  rename(geometry = x) -> vienna
+
+gemeinden %>% 
+  filter(!str_detect(id, "^9.*")) %>% 
+  bind_rows(vienna) -> data_all_gemeinden_vienna
+  
+ 
+
+# join the classification and get only the urban center -------------------
+ 
+# join the classification to the geolayer of all gemeinden
+data_all_gem_class = left_join(data_all_gemeinden_vienna, urban_rural, by=c("id" = "GKZ"))
+
+# filter only
+data_urban_center = data_all_gem_class %>% 
+  filter(CODE == 1)
+
+# get the centroids
+data_urban_center_centroids = st_centroid(data_urban_center)
+
+# get the distance from each sel gemeinde to the next urban center --------
+
+# get the centroids of the selecetd gemeinden
+centroids_gemeinden = st_centroid(data_all_gemeinden_vienna)
+
+
+centroids_split = split(centroids_gemeinden, centroids_gemeinden$id)
+minDists = lapply(centroids_split, function(x){
+  
+  # if the gemeinde is one of the urban centers, filter it out 
+  urban_center_filtered = data_urban_center %>% 
+    filter(
+      id != x$id
+    )
+  
+   distances = st_distance(x, st_centroid(urban_center_filtered))
+   min_dist_m = min(distances)
+   min_dist_city = urban_center_filtered$name[which.min(distances)]
+   
+   x[["min_distance_m"]] = min_dist_m
+   x[["min_distance_city"]] = min_dist_city
+   
+   x
+  
+})
+
+minDistsNoGeo = bind_rows(minDists) %>% 
+  st_drop_geometry()
+
+
+library(rajudas)
+outPath = makePath(here("output/distancesEachGemeinde.csv"))
+write_csv(minDistsNoGeo, outPath)
+
+# 
+#   apply(X = ., MARGIN = 1, function(x){
+#     data.frame(distance = min(x),
+#                idx = which.min(x))
+#   }) %>% bind_rows()
+# 
+# data_sel_next_centroids = data_urban_center[idxs_next_urban_centers$idx, ] %>% st_drop_geometry() %>% 
+#   bind_cols(idxs_next_urban_centers[,c("distance"), drop=F])
+# 
+# 
+# data_final = cbind(centroids_gemeinden, data_sel_next_centroids)
+# 
+# 
+# # convert to m ------------------------------------------------------------
+# data_final %>% 
+#   mutate(
+#     distance = round(distance / 1000, 0)
+#   ) -> data_final
+# 
+# 
+# 
+# # get the centroids of the next urban center and write --------------------
+# 
+# data_final %>% 
+#   st_drop_geometry() %>% 
+#   rename(
+#     id_gem = id,
+#     id_urban = id.1
+#   ) %>% left_join(data_all_gemeinden_vienna, by=c("id_urban" = "id")) %>%
+#   rename(
+#    name = `name.x` ,
+#    name_urban = `name.y` 
+#   ) %>% 
+#   st_as_sf() %>% 
+#   st_centroid() %>% 
+#   st_transform(crs=4326)-> data_next_center_sf
+# 
+# out_path = here("output/data_next_center_sf.geojson")
+# if(file.exists(out_path)) file.remove(out_path)
+# st_write(data_next_center_sf, out_path)
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 

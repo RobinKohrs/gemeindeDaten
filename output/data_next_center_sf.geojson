@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "data_next_center_sf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id_gem": 30604.0, "name": "Baden", "id_urban": 90001.0, "name.1": "Wien", "CODE": 1.0, "TXT": "densely populated area (cities\/urban centres\/urban areas)", "distance": 26.0, "name_urban": "Wien" }, "geometry": { "type": "Point", "coordinates": [ 16.375045366891005, 48.209136989063111 ] } },
+{ "type": "Feature", "properties": { "id_gem": 30729.0, "name": "Ebergassing", "id_urban": 90001.0, "name.1": "Wien", "CODE": 1.0, "TXT": "densely populated area (cities\/urban centres\/urban areas)", "distance": 20.0, "name_urban": "Wien" }, "geometry": { "type": "Point", "coordinates": [ 16.375045366891005, 48.209136989063111 ] } },
+{ "type": "Feature", "properties": { "id_gem": 31111.0, "name": "Japons", "id_urban": 90001.0, "name.1": "Wien", "CODE": 1.0, "TXT": "densely populated area (cities\/urban centres\/urban areas)", "distance": 89.0, "name_urban": "Wien" }, "geometry": { "type": "Point", "coordinates": [ 16.375045366891005, 48.209136989063111 ] } },
+{ "type": "Feature", "properties": { "id_gem": 40705.0, "name": "Gmunden", "id_urban": 40101.0, "name.1": "Linz", "CODE": 1.0, "TXT": "densely populated area (cities\/urban centres\/urban areas)", "distance": 58.0, "name_urban": "Linz" }, "geometry": { "type": "Point", "coordinates": [ 14.31335967080066, 48.285026884263239 ] } },
+{ "type": "Feature", "properties": { "id_gem": 50403.0, "name": "Bad Gastein", "id_urban": 50101.0, "name.1": "Salzburg", "CODE": 1.0, "TXT": "densely populated area (cities\/urban centres\/urban areas)", "distance": 80.0, "name_urban": "Salzburg" }, "geometry": { "type": "Point", "coordinates": [ 13.043764834934718, 47.798232525344254 ] } }
+]
+}

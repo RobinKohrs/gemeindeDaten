@@ -1,0 +1,30 @@
+library(here)
+library(glue)
+library(tidyverse)
+library(sf)
+
+# gemeinden_ids --------------------------------------------------------------------
+gemeinden_ids = c(50403, 40705, 30604, 30729, 31111)
+
+# gemeinden geo -----------------------------------------------------------
+
+# paths
+url = "https://data.statistik.gv.at/data/OGDEXT_GEM_1_STATISTIK_AUSTRIA_20220101.zip"
+zip_path = here("data_raw/gemeinden_geo.zip")
+unzipped_dir = here("data_raw/gemeinden_geo")
+if (!dir.exists(unzipped_dir)){
+  dir.create(unzipped_dir, recursive = T)
+}
+
+# links
+check_file_path = here("data_raw/gemeinden_geo/STATISTIK_AUSTRIA_GEM_20220101.shp")
+if(!file.exists(check_file_path)) {
+  download.file(url, zip_path)
+  unzip(zip_path, exdir = unzipped_dir)
+  gemeinden_geo = read_sf(here((
+    "data_raw/gemeinden_geo/STATISTIK_AUSTRIA_GEM_20220101.shp"
+  )
+  ))
+}else{
+  gemeinden_geo = read_sf(check_file_path)
+}

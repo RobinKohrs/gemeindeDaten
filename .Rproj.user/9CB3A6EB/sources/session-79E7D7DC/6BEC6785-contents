@@ -1,0 +1,41 @@
+library(tidyverse)
+library(glue)
+library(here)
+
+# Daten von hier: https://www.statistik.at/atlas/
+# Datenstand: 1/1/2020
+
+# path --------------------------------------------------------------------
+path_data = here("data_raw/income/lohnsteuerstatistik-jahresbruttobezug.csv")
+path_bev = here("data_raw/income/bevölkerungsstand_2020.csv")
+
+# vars --------------------------------------------------------------------
+source(here("analysis/selected_gemeinden.R"))
+
+# data --------------------------------------------------------------------
+data = readr::read_delim(path_data, skip = 8, delim = ";") %>% select(!matches("\\.\\.\\.")) %>% 
+  rename(income_2020 = 3)
+
+bev = readr::read_delim(path_bev, skip = 8, delim = ";")%>% select(!matches("\\.\\.\\.")) %>% 
+  rename(bev = Wert)
+
+data = left_join(data, bev, by=c("ID", "Name")) %>% 
+  filter(!is.na(bev))
+  
+
+data %>% 
+  mutate(
+    mean_income_oe = weighted.mean(income_2020, bev)
+  ) -> data_mean_oe
+
+data_mean_oe %>% 
+  filter(ID %in% gemeinden_ids) %>% 
+  select(ID, Name, income_2020, mean_income_oe) %>% 
+  bind_rows(
+    list(ID = 1, Name = "Österreich", income_2020=.$mean_income_oe[[1]])
+  ) %>% rename(gemeinde = Name) %>% select(gemeinde, income_2020) -> data_clean
+
+
+# write -------------------------------------------------------------------
+readr::write_csv(data_clean, here("output/income_2020.csv"))
+
